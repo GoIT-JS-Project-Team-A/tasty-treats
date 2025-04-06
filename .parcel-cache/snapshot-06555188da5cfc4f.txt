@@ -46,7 +46,7 @@
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lightningcss\node\ast.js.flow133884205966222257 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\sass\types\value\string.d.ts133884205973666999 0
 58C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.posthtmlrc133884190853210346 0
-51C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist133884207344122247 1
+51C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist133884207344433492 1
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133884205968305509 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper-bundle.min.css133884205972739226 0
 58C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.htmlnanorc133884190852914524 0
