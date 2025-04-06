@@ -6,7 +6,8 @@
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /tasty-treats/",
-    "deploy": "parcel build src/*.html --public-url /tasty-treats/ && gh-pages -d dist"
+    "prebuild": "shx rm -rf dist/*",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
