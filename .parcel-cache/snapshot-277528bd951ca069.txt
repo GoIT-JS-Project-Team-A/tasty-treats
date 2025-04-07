@@ -42,7 +42,7 @@
 67C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\shx\lib133884211109768929 1
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\sass\types\value\string.d.ts133884205973666999 0
 58C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.posthtmlrc133884244131130433 0
-51C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist133885218164016483 1
+51C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist133885252786971032 1
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133884205968305509 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper-bundle.min.css133884205972739226 0
 58C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.htmlnanorc133884244130725039 0
@@ -207,7 +207,7 @@
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\includes.js133884205977946072 0
 54C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\img133884244131332971 1
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\index.js133884205987808769 0
-61C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\index.html133885217877296037 0
+61C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\index.html133885252786030226 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\cjs\replace\property\font-weight.cjs133884206161343824 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cosmiconfig\dist\Explorer.d.ts133884205971733435 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\svgo\plugins\removeUnusedNS.js133884206163689612 0
@@ -1921,7 +1921,7 @@
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\type-fest\ts41\kebab-case.d.ts133884205969371595 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.stat\out\index.d.ts133884205968456952 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\p-locate\package.json133884211541602184 0
-62C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\index.html133885218163724967 0
+62C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\index.html133885252786955658 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.from.js133884205980602452 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper-element-bundle.min.js.map133884205974845176 0
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\index.js.map133884206160993181 0
