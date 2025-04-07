@@ -12,7 +12,7 @@
     height: 516px;
 
     margin: 0 auto;
-    background: url('../../images/favorites/card335px-mob@1x.webp');
+    background: url('../../img/favorites/card335px-mob@1x.webp');
     background-size: cover;
   }
 }
@@ -23,7 +23,7 @@
     height: 516px;
 
     margin: 0 auto;
-    background: url('../../images/favorites/card670px-mob@2x.webp');
+    background: url('../../img/favorites/card670px-mob@2x.webp');
     background-size: cover;
   }
 }
@@ -35,7 +35,7 @@
   .hero_fav {
     width: 704px;
     height: 356px;
-    background: url('../../images/favorites/card704px-tab@1x.webp');
+    background: url('../../img/favorites/card704px-tab@1x.webp');
     background-size: cover;
   }
 }
@@ -44,7 +44,7 @@
   .hero_fav {
     width: 704px;
     height: 356px;
-    background: url('../../images/favorites/card1408px-tab@2x.webp');
+    background: url('../../img/favorites/card1408px-tab@2x.webp');
     background-size: cover;
   }
 }
@@ -57,7 +57,7 @@
   .hero_fav {
     width: 1080px;
     height: 356px;
-    background: url('../../images/favorites/card1080px-desk@1x.webp');
+    background: url('../../img/favorites/card1080px-desk@1x.webp');
     background-size: cover;
   }
 }
@@ -66,7 +66,7 @@
   .hero_fav {
     width: 1080px;
     height: 356px;
-    background: url('../../images/favorites/card2160px-desk@2x.webp');
+    background: url('../../img/favorites/card2160px-desk@2x.webp');
     background-size: cover;
   }
 }
@@ -75,7 +75,7 @@
   .fav-hero {
     width: 1080px;
     height: 356px;
-    background: url('../../images/favorites/card1080px-desk@1x.webp');
+    background: url('../../img/favorites/card1080px-desk@1x.webp');
     background-size: cover;
   }
 }
@@ -84,7 +84,7 @@
   .fav-hero {
     width: 1080px;
     height: 356px;
-    background: url('../../images/favorites/card2160px-desk@2x.webp');
+    background: url('../../img/favorites/card2160px-desk@2x.webp');
     background-size: cover;
   }
 }
