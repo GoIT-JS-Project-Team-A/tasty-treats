@@ -1,0 +1,13 @@
+import './js/services/API.js';
+import './js/services/category-search.js';
+import './js/utilities/pagination.js';
+import './js/utilities/swiper.js';
+import './js/utilities/swiper-api.js';
+import './js/utilities/scrollbar.js';
+import './js/renders/renders.js';
+import './js/utilities/mobile-menu.js';
+import './js/renders/search.js';
+import './js/renders/render-popular-recipes.js';
+import './js/utilities/order-now-modal.js';
+import './js/utilities/modal-recipes.js';
+import './js/utilities/fav-list.js';
