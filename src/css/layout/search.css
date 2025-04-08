@@ -61,6 +61,41 @@
   background-color: inherit;
 }
 
+.search-section { /* Search ana bölüm */
+  margin-bottom: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.list-filter { /* Filtre listeleri */
+  height: 46px;
+  color: rgba(5, 5, 5, 0.5);
+  padding-left: 18px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 15px;
+  border: 1px solid rgba(5, 5, 5, 0.2);
+  outline: none;
+  box-sizing: border-box;
+}
+
+.list-time { /* Tarif süresi filtre listesi */
+  width: 160px;
+}
+
+.list-area { /* Tarif kökeni filtre listesi */
+  width: 161px;
+}
+
+.list-ingred { /* Malzeme filtre listesi */
+  width: 188px;
+}
+
+.select select { /* Selectbox */
+  color: #fff;
+}
+
 @media screen and (max-width: 767px) {
   .search-input {
     width: 335px;
@@ -70,6 +105,11 @@
     width: 335px;
     margin: 0 auto;
   }
+
+  .image-container {
+    display: block;
+    margin-bottom: 40px;
+  }
 }
 
 /* Tablet Responsive Tasarım - Tablet responsive design */
@@ -78,6 +118,11 @@
     width: 496px;
     min-height: 985px;
   }
+  
+  .image-container {
+    min-height: 844px;
+    margin-bottom: 64px;
+  }
 }
 
 /* Desktop Responsive Tasarım - Desktop responsive design */
@@ -85,5 +130,10 @@
   .search-res-container {
     width: 782px;
     min-height: 728px;
+  }
+  
+  .image-container {
+    min-height: 908px;
+    row-gap: 32px;
   }
 }
