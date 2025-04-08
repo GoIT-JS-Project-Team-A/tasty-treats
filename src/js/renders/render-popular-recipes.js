@@ -1,5 +1,5 @@
-import { fetchPopularRecipes } from "../services/API";
-import { OpenModal } from "../utilities/modal-recipes";
+import { getPopularRecipes } from "../service/API";
+import { OpenModal } from "../utils/modal-recipes";
 
 // Tariflerin render edilmesi - Recipes rendering
 export const popularRecipes = document.querySelector('.popular-recipes-list');
