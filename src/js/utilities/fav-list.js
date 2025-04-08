@@ -3,7 +3,7 @@ import startPagination from './pagination';
 import { OpenModal } from './modal-recipes';
 import Notiflix from 'notiflix';
 
-const refs = {
+const refs = { // DOM elemanlarının tanımlanması - DOM elements declaration
   favoriteCategoriesList: document.querySelector('.favorite-categories'),
   favoriteRecipesList: document.querySelector('.favorite-list'),
   warning: document.querySelector('.empty-storage'),
@@ -13,12 +13,12 @@ const refs = {
 
 let currentCategory = '';
 
-const calcPages = () => {
+const calcPages = () => { // Çözünürlüğe göre sayfa sayısı - Page count by screen width
   const screenWidth = window.innerWidth;
   return screenWidth < 768 ? 9 : 12;
 };
 
-const groupObjects = (array, groupSize) => {
+const groupObjects = (array, groupSize) => { // Tarifleri grupla - Group recipes
   const result = {};
   for (let i = 0; i < array.length; i += groupSize) {
     const groupName = Math.floor(i / groupSize) + 1;
@@ -27,7 +27,7 @@ const groupObjects = (array, groupSize) => {
   return result;
 };
 
-const onFavoritesReload = () => {
+const onFavoritesReload = () => { // Favoriler sayfasının yenilenmesi - Favorites page reload
   const categoryMarkup = generateCategoryList();
   const allCatBtn = `<button class="button-fav all-btn" name="all">All categories</button>`;
 
@@ -45,7 +45,7 @@ const onFavoritesReload = () => {
   generateStorageList();
 };
 
-const generateStorageList = (pageSet = 1) => {
+const generateStorageList = (pageSet = 1) => { // Favoriler sayfasının oluşturulması - Favorites page creation
   const storage = localStorage.getItem('favorites');
   const data = JSON.parse(storage) || [];
 
@@ -111,7 +111,7 @@ const generateStorageList = (pageSet = 1) => {
 };
 
 
-const generateCategoryList = () => {
+const generateCategoryList = () => { // Kategorilerin oluşturulması - Categories creation
   const storage = localStorage.getItem('favorites');
   const data = JSON.parse(storage) || [];
   if (data.length) {
@@ -128,7 +128,7 @@ const generateCategoryList = () => {
 
 const renderCategory = (category) => `<button class="button-fav">${category}</button>`;
 
-const filterByCategory = (evt) => {
+const filterByCategory = (evt) => { // Kategoriye göre tarifleri filtreleme - Filter recipes by category
   if (evt.target.nodeName === 'BUTTON') {
     if (evt.target.name === 'all') {
       currentCategory = ''; 
@@ -142,7 +142,7 @@ const filterByCategory = (evt) => {
   }
 };
 
-const setActiveClass = (targetButton) => {
+const setActiveClass = (targetButton) => { // Aktif kategori butonunu ayarla - Set active category button
   const allCatBtn = document.querySelector('.all-btn');
   const categoryButtons = document.querySelectorAll('.button-fav');
 
@@ -157,7 +157,7 @@ const setActiveClass = (targetButton) => {
   allCatBtn.classList.remove('onActive');
 };
 
-const handleFavoriteButtonClick = (button) => {
+const handleFavoriteButtonClick = (button) => { // Favori tariflerden tarif silme - Remove recipe from favorites
   const infoRecipe = JSON.parse(button.dataset.info);
   const storage = localStorage.getItem('favorites');
   let data = JSON.parse(storage) || [];
@@ -194,7 +194,7 @@ const handleFavoriteButtonClick = (button) => {
     }
   }
 
-
+// Favoriler sayfasının yenilenmesi - Favorites page reload
   const remainingData = JSON.parse(localStorage.getItem('favorites')) || [];
   if (remainingData.length === 0) {
     refs.favoriteRecipesList.innerHTML = '';
