@@ -1,77 +1,89 @@
-.filter-container {
-  width: 780px;
-  height: 74px;
-  display: flex;
-  flex-direction: row;
-  gap: 16px;
-}
-.filter-container label {
-  display: flex;
-  flex-direction: column; /* Label içinde dikey hizalama */
-  align-items: flex-start; /* Label içeriğini sola hizala */
-  color: rgba(5, 5, 5, 0.5);
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.285;
-  letter-spacing: 0%;
-}
-.filter-container input,
-.filter-container select {
-  box-sizing: border-box;
-  width: 100%;
-  margin-top: 8px; /* Label ile alan arasında boşluk */
-  padding-top: 14px;
-  padding-bottom: 14px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.25;
-  color: rgba(5, 5, 5, 0.5);
-  border: 1px solid rgba(5, 5, 5, 0.2);
-  border-radius: 15px;
-}
-.filter-container input {
-  padding-left: 36px;
+/* Arama bölümü stiller - Search styles */
+
+/* Mobile Responsive Tasarım - Mobile responsive design */
+.search-wrapper { /* Search ana div */
+  position: relative;
+  display: inline-block;
 }
 
-#timeSelect,
-#areaSelect,
-#ingredientSelect {
-  padding-left: 18px;
+.search-label { /* Search etiketi */
+  color: var(--primary-color-05);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  word-wrap: break-word;
+  margin-bottom: 8px;
+  display: block;
 }
-.search-div {
-  width: 278px;
-  height: 74px;
-}
-.search-label {
+
+.search-input-wrapper { /* Search input divi */
   position: relative;
   display: flex;
   align-items: center;
 }
-.search-icon {
-  margin-right: 12px; /* İkon ve metin arasında 12px boşluk */
-  position: absolute; /* İkonun yerini belirleme */
-  left: 10px; /* Sol taraftan 10px uzaklık */
-  top: 49px; /* Yüksekliği ortalama (?)*/
-  transform: translateY(-50%); /* Dikey ortalama sağlama */
+
+.search-icon { /* Search icon */
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  color: var(--primary-color-05);
 }
-/* input[type='text']:focus + .search-icon {
-  fill: #9bb537;
-} */
-.filter-close-icon {
-  position: absolute; /* İkonun yerini belirleme */
-  right: 18px; /* Sağ taraftan 18px uzaklık */
-  top: 49px; /* Yüksekliği ortalama (?)*/
-  transform: translateY(-50%); /* Dikey ortalama sağlama */
+
+.search-icon img { /* Search icon resmi */
+  width: 18px;
+  height: 18px;
 }
-.time-div {
-  width: 125px;
-  height: 74px;
+
+.search-input,
+.list-time.list-filter,
+.list-area.list-filter,
+.list-ingred.list-filter { /* Search input ve filtre listeleri ortak stiller */
+  color: var(--primary-color-02);
+  background-color: inherit;
+  border-color: var(--primary-color-02);
 }
-.area-div {
-  width: 141px;
-  height: 74px;
+
+.search-input { /* Search inputu */
+  width: 295px;
+  height: auto;
+  padding: 14px 18px 14px 48px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--primary-color-02);
+  border-radius: 15px;
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  border-color: var(--primary-color-02);
+  background-color: inherit;
 }
-.ingredient-div {
-  width: 188px;
-  height: 74px;
+
+@media screen and (max-width: 767px) {
+  .search-input {
+    width: 335px;
+  }
+  
+  .search-res-container {
+    width: 335px;
+    margin: 0 auto;
+  }
+}
+
+/* Tablet Responsive Tasarım - Tablet responsive design */
+@media screen and (min-width: 768px) {
+  .search-res-container {
+    width: 496px;
+    min-height: 985px;
+  }
+}
+
+/* Desktop Responsive Tasarım - Desktop responsive design */
+@media screen and (min-width: 1280px) {
+  .search-res-container {
+    width: 782px;
+    min-height: 728px;
+  }
 }
