@@ -252,18 +252,3 @@ export async function searchImagesAndDisplay(
 export function setSearchQueryName(name = '') {
   query = name;
 }
-
-function toggleFavriteRecipe(currentBtn) {
-  const recipeInfo = JSON.parse(currentBtn.dataset.info);
-
-  currentBtn.classList.toggle('active');
-  const storage = JSON.parse(localStorage.getItem('favorites')) ?? [];
-  if (currentBtn.classList.contains('active')) {
-    localStorage.setItem('favorites', JSON.stringify([...storage, recipeInfo]));
-  } else {
-    localStorage.setItem(
-      'favorites',
-      JSON.stringify([...storage.filter(el => el.id !== recipeInfo.id)])
-    );
-  }
-}
