@@ -61,6 +61,13 @@
   background-color: inherit;
 }
 
+.search-section { /* Search ana bölüm */
+  margin-bottom: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
 @media screen and (max-width: 767px) {
   .search-input {
     width: 335px;
