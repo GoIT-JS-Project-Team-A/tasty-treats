@@ -274,3 +274,19 @@ export function AddToFav({ target }) {
     target.textContent = 'Remove favorite';
   }
 }
+
+function removeListeners() {
+  // Tarif penceresi - Recipes Modal
+  closeModalBtn.removeEventListener('click', CloseModal);
+  backdropModal.removeEventListener('click', CloseOnClick);
+  saveRecipeBtn.removeEventListener('click', AddToFav);
+  // Puanlama penceresi - Rating Modal
+  giveRatingBtn.removeEventListener('click', OpenRateModal);
+  closeRate.removeEventListener('click', CloseRateModal);
+
+  modalRateList.removeEventListener('click', GiveRate);
+  rateEmail.removeEventListener('input', checkRateInputs);
+  rateForm.removeEventListener('submit', SubmitRate);
+
+  window.removeEventListener('keydown', CloseOnBtnClick);
+}
