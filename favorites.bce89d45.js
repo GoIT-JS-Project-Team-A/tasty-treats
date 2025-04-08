@@ -1,0 +1,2 @@
+import"./tasty-treats.319df5b1.js";var r=globalThis,e={},t={},a=r.parcelRequire78be;null==a&&((a=function(r){if(r in e)return e[r].exports;if(r in t){var a=t[r];delete t[r];var i={id:r,exports:{}};return e[r]=i,a.call(i.exports,i,i.exports),i.exports}var o=Error("Cannot find module '"+r+"'");throw o.code="MODULE_NOT_FOUND",o}).register=function(r,e){t[r]=e},r.parcelRequire78be=a),a.register,a("dfR2J"),a("73CtT"),a("a6ItA"),a("mGbw0");
+//# sourceMappingURL=favorites.bce89d45.js.map
