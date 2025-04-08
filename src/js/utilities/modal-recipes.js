@@ -152,3 +152,70 @@ function CloseOnClick({ currentTarget, target }) { // Tıklanıldığında pence
 function CloseOnBtnClick(e) { // ESC tuşuna basıldığında pencerenin kapanması - Close on ESC
   if (e.key === 'Escape') CloseModal();
 }
+
+// Sayfayı oluştur - Build page
+
+async function genereteRecipe(id) {
+  try {
+    const recipe = await findRecipes(id);
+
+    const { title, description, preview, rating, _id, category } = recipe;
+
+    const recipeObj = {
+      title,
+      description,
+      preview,
+      rating,
+      id: _id,
+      category,
+    };
+
+    modalRecipes.dataset.info = `${JSON.stringify(recipeObj)}`;
+
+    addData(CreateMarkup(recipe));
+    addScrollbarText();
+  } catch (err) {
+    console.error(err);
+  }
+}
+function CreateMarkup(data) { // İçeriğin oluşturma - Create markup
+  const ingr = data.ingredients;
+  const src = !data.youtube
+    ? data.thumb
+    : data.youtube.replace('watch?v=', 'embed/');
+  const tags = data.tags;
+  let tagslist = '';
+  if (!tags[0]) {
+  } else {
+    for (let k = 0; k < tags.length; k++) {
+      tagslist += `<li class="recipe-tag">#${tags[k]}</li>`;
+    }
+  }
+  let ingrList = '';
+  for (let i = 0; i < ingr.length; i++) {
+    ingrList += `<li class="recipe-ingridient">${ingr[i].name} <span class="recipe-ps">${ingr[i].measure}</span></li>`;
+  }
+  const fixRating =
+    data.rating > 5 ? Number(5).toFixed(1) : data.rating.toFixed(1);
+  const markup = `<div class="recipe-parts">
+    ${checkSrc(src, data.description)}
+    <div class="recipe-title">
+      <h2 class="recipe-title-txt">${data.title}</h2>
+      <div class="rating-part">
+        <p class='rate'>${fixRating}</p>
+      ${ratingScale(fixRating)}
+        <p class="recipe-time">${data.time} min</p>
+      </div>
+      <ul class="ingridients">
+        ${ingrList}
+      </ul>
+    </div>
+  </div>
+  <ul class="recipe-tags">
+    ${tagslist}
+  </ul>
+  <p class="recipe-instr">${data.instructions}</p>
+  </div>
+`;
+  return markup;
+}
