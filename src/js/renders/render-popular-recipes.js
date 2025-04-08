@@ -14,6 +14,7 @@ async function renderPopularRecipes() {
     console.error('Error while rendering popular recipes:', error);
   }
 }
+
  // Tariflerin oluşturma - Recipes creation
 function createPopularRecipesList(data) {
   const markup = data.map((recipe) => {
