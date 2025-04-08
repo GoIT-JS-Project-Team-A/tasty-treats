@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>TastyTreats</title>
+    <title>Tasty Treats</title>
     <link
       rel="stylesheet"
       href="../node_modules/modern-normalize/modern-normalize.css"
@@ -14,8 +14,23 @@
   </head>
 
   <body>
-    <include src="./partials/all-categories.html"></include>
-    <include src="./partials/popular-recipes.html"></include>
-    <include src="./partials/saerch.html"></include>
+    <!-- Header & Hero -->
+    <include src="./partials/header.html"></include>
+    <include src="./partials/hero.html"></include>
+
+    <!-- Main Contents -->
+    <div class="main-content-wrapper container">
+      <include src="./partials/all-categories.html"></include>
+      <include src="./partials/popular-recipes.html"></include>
+      <include src="./partials/saerch.html"></include>
+      <include src="./partials/order-now-modal.html"></include>
+    </div>
+
+    <!-- Modals/Popups -->
+    <div class="recipes-modal is-hidden-modal">
+      <include src="./partials/modal-recipes.html"></include>
+      <include src="./partials/rating.html"></include>
+    </div>
+    <button id="scroll-button" class="scroll-button">&#9650;</button>
   </body>
 </html>
