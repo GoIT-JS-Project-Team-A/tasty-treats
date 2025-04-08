@@ -109,3 +109,27 @@ async function SubmitRate(e) {
 
   CloseModal();
 }
+
+// Varsayılana dönme - Reset
+function restoreForm() {
+  [...modalRateList.children].forEach(el =>
+    el.classList.remove('is-rated')
+  );
+
+  rateEmail.style.borderColor = '';
+  sendRateBtn.disabled = true;
+  rateVal.textContent = '0.0';
+  rateForm.dataset.id = '';
+  rateForm.reset();
+}
+
+// Puanlama penceresini kapatma - Close rating modal
+function CloseRateModal() {
+  mainModalRecipes.classList.remove('is-hidden-modal');
+  rateModal.classList.add('is-hidden-modal');
+
+  closeRate.removeEventListener('click', CloseRateModal); 
+  modalRateList.addEventListener('click', GiveRate); 
+  rateEmail.addEventListener('input', checkRateInputs); 
+  rateForm.addEventListener('submit', SubmitRate); 
+}
