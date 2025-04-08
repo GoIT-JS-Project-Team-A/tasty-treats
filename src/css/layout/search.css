@@ -96,6 +96,14 @@
   color: #fff;
 }
 
+.input-section { /* Input bölümü */
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
 @media screen and (max-width: 767px) {
   .search-input {
     width: 335px;
@@ -123,6 +131,18 @@
     min-height: 844px;
     margin-bottom: 64px;
   }
+  
+  .search-section {
+    gap: 18px;
+  }
+
+  .list-time {
+    width: 125px;
+  }
+
+  .list-area {
+    width: 141px;
+  }
 }
 
 /* Desktop Responsive Tasarım - Desktop responsive design */
@@ -135,5 +155,47 @@
   .image-container {
     min-height: 908px;
     row-gap: 32px;
+  }
+  
+  .search-section {
+    gap: 16px;
+  }
+
+  .search-input {
+    width: 278px;
+  }
+}
+
+/* spinner */
+
+.spinner-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid var(--accent-color);
+  border-radius: 50%;
+  animation: spin 3s linear infinite;
+  align-self: flex-end;
+}
+
+.search-section {
+  position: relative;
+}
+
+.search-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
   }
 }
