@@ -48,3 +48,30 @@ export function OpenModal(currentBtn) {
 
   saveRecipeBtn.addEventListener('click', AddToFav);
 }
+
+3// Puanlama penceresinin açılışı - Opening rating modal
+function OpenRateModal() {
+  mainModalRecipes.classList.add('is-hidden-modal');
+  rateModal.classList.remove('is-hidden-modal');
+
+  closeRate.addEventListener('click', CloseRateModal); 
+  modalRateList.addEventListener('click', GiveRate); 
+  rateEmail.addEventListener('input', checkRateInputs); 
+  rateForm.addEventListener('submit', SubmitRate); 
+}
+
+// Puanlama - Rating
+function GiveRate(e) {
+  const target = e.target.closest('.modal-rating-star-item');
+
+  if (target) {
+    const rate = [...e.currentTarget.children].indexOf(target) + 1;
+    [...e.currentTarget.children].forEach((el, i) =>
+      i <= rate - 1
+        ? el.classList.add('is-rated')
+        : el.classList.remove('is-rated')
+    );
+    rateVal.textContent = rate.toFixed(1);
+    rateRage.value = rate;
+  }
+}
