@@ -1,36 +1,39 @@
-import { fetchRecipes, patchRating } from '../services/API';
+import { findRecipes, patchRating } from '../service/API';
 import { measureRating } from '../renders/renders';
 import { ratingScale } from '../renders/renders';
 import SmoothScrollbar from 'smooth-scrollbar';
 import Notiflix from 'notiflix';
+import { patchRating } from '../service/API';
 
 // DOM öğelerinin tanımlanması - DOM elements declaration
-closeModalBtn = document.querySelector('.close-modal');
-backdropModal = document.querySelector('.backdrop-recipes');
-mainModalRecipes = document.querySelector('.modal-recipes');
-modalRecipes = document.querySelector('.modal-recipes-js');
-backdropModal = document.querySelector('.backdrop-recipes');
-saveRecipeBtn = document.querySelector('.save-recipes-btn');
-giveRatingBtn = document.querySelector('.give-rating-btn');
-rateModal = document.querySelector('.modal-rating');
-closeRate = document.querySelector('.close-rating-modal');
-modalRateList = document.querySelector('.modal-rating-list');
-rateVal = document.querySelector('.modal-rating-span');
-rateRage = document.querySelector('.rating-range-input');
-rateEmail = document.querySelector('.rating-email-input');
-rateForm = document.querySelector('.modal-rating-form');
-sendRateBtn = document.querySelector('.modal-rating-send-btn');
+const refs = {
+  closeModalBtn: document.querySelector('.close-modal'),
+  backdropModal: document.querySelector('.backdrop-recipes'),
+  mainModalRecipes: document.querySelector('.modal-recipes'),
+  modalRecipes: document.querySelector('.modal-recipes-js'),
+  backdropModal: document.querySelector('.backdrop-recipes'),
+  saveRecipeBtn: document.querySelector('.save-recipes-btn'),
+  giveRatingBtn: document.querySelector('.give-rating-btn'),
+  rateModal: document.querySelector('.modal-rating'),
+  closeRate: document.querySelector('.close-rating-modal'),
+  modalRateList: document.querySelector('.modal-rating-list'),
+  rateVal: document.querySelector('.modal-rating-span'),
+  rateRage: document.querySelector('.rating-range-input'),
+  rateEmail: document.querySelector('.rating-email-input'),
+  rateForm: document.querySelector('.modal-rating-form'),
+  sendRateBtn: document.querySelector('.modal-rating-send-btn'),
+};
 
 // Açılır pencere - Modal
-export function OpenModal(currentBtn) { 
-  closeModalBtn.addEventListener('click', CloseModal);
-  backdropModal.addEventListener('click', CloseOnClick);
-  giveRatingBtn.addEventListener('click', OpenRateModal);
+export function OpenModal(currentBtn) {
+  refs.closeModalBtn.addEventListener('click', CloseModal);
+  refs.backdropModal.addEventListener('click', CloseOnClick);
+  refs.giveRatingBtn.addEventListener('click', OpenRateModal);
   window.addEventListener('keydown', CloseOnBtnClick);
 
-  backdropModal.classList.remove('is-hidden-modal');
-  mainModalRecipes.classList.remove('is-hidden-modal');
-  rateForm.dataset.id = currentBtn.dataset.id;
+  refs.backdropModal.classList.remove('is-hidden-modal');
+  refs.mainModalRecipes.classList.remove('is-hidden-modal');
+  refs.rateForm.dataset.id = currentBtn.dataset.id;
   genereteRecipe(currentBtn.dataset.id);
   ToggleScroll();
 
@@ -39,13 +42,13 @@ export function OpenModal(currentBtn) {
 
   if (storage) {
     if (data.find(el => el.id === currentBtn.dataset.id)) {
-      saveRecipeBtn.textContent = 'Remove favorite';
+      refs.saveRecipeBtn.textContent = 'Remove favorite';
     } else {
-      saveRecipeBtn.textContent = 'Add to favorite';
+      refs.saveRecipeBtn.textContent = 'Add to favorite';
     }
   }
 
-  saveRecipeBtn.addEventListener('click', AddToFav);
+  refs.saveRecipeBtn.addEventListener('click', AddToFav);
 }
 
 // Puanlama penceresinin açılışı - Opening rating modal
