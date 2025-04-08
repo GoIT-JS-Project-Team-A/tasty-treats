@@ -1,9 +1,9 @@
-import { findRecipes, patchRating } from '../service/API';
+import { findRecipes, patchRating } from '../services/API';
 import { measureRating } from '../renders/renders';
 import { ratingScale } from '../renders/renders';
 import SmoothScrollbar from 'smooth-scrollbar';
 import Notiflix from 'notiflix';
-import { patchRating } from '../service/API';
+import { patchRating } from '../services/API';
 
 // DOM öğelerinin tanımlanması - DOM elements declaration
 const refs = {

@@ -1,11 +1,11 @@
 import debounce from 'lodash.debounce';
-import { searchOnTitle } from '../service/categorySearch';
+import { searchOnTitle } from '../services/category-search';
 import Notiflix, { Loading } from 'notiflix';
 import renderItem from './renders';
 import startPagination from '../utilities/pagination';
 import { OpenModal } from '../utilities/modal-recipes';
 import { setActiveClass, onClickAllCategoriesButton } from '../utilities/scrollbar';
-import { fetchAreaRecipes, fetchIngredientsRecipes } from '../service/API.js';
+import { fetchAreaRecipes, fetchIngredientsRecipes } from '../services/API';
 
 // DOM elemanlarını tanımlama - DOM elements
 const searchInput = document.querySelector('.search-input');

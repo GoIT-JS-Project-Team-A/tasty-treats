@@ -1,11 +1,11 @@
 import SmoothScrollbar from 'smooth-scrollbar';
-import { fetchCategories } from '../service/API';
+import { fetchCategories } from '../services/API';
 import {
   recipeContainer,
   searchImagesAndDisplay,
   setSearchQueryName,
 } from '../renders/search';
-import { searchOnCategory } from '../service/categorySearch';
+import { searchOnCategory } from '../services/category-search';
 
 function createCategoryButton(category, onClick) { // Kategorilerin oluşturulması - Categories creation
   const button = document.createElement('button');

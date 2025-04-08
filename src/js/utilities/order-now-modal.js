@@ -1,5 +1,5 @@
 import Notiflix from 'notiflix';
-import { postOrder } from "../service/API";
+import { postOrder } from "../services/API";
 
 const refs = { // DOM elemanlarının tanımlanması - DOM elements declaration
   openModalBtn: document.querySelector('.shopping-link'),
