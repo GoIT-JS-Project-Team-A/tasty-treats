@@ -1,0 +1,18 @@
+/* Arama bölümü stiller - Search styles */
+
+/* Mobile Responsive Tasarım - Mobile responsive design */
+.search-wrapper { /* Search main div */
+  position: relative;
+  display: inline-block;
+}
+
+.search-label { /* Search label */
+  color: var(--primary-color-05);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  word-wrap: break-word;
+  margin-bottom: 8px;
+  display: block;
+}
