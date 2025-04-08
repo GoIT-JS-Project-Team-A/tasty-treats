@@ -1,36 +1,41 @@
 import axios from 'axios';
 
-const API_URL_recipes = 'https://tasty-treats-backend.p.goit.global/api/recipes';
+const BASE_URL = 'https://tasty-treats-backend.p.goit.global/api/recipes';
 
-function resizePage() {
-    const windowWidth = window.innerWidth;
-    if (windowWidth >= 1280) {
-        return 'per_page=9&limit=9';
-    } else if (windowWidth >= 768 && windowWidth < 1280) {
-        return 'per_page=8&limit=8';
-    } else if (windowWidth < 768) {
-        return 'per_page=6&limit=6';
-    }
-};
+function resizePage() { // Çöznürlüğe göre bölüm sayısı - Resize page by screen width
+  const screenWidth = window.innerWidth;
 
-export async function fetchRecipesByTitle(search, page, time = "", area = "", ingredients = "") { 
-    const url = `${API_URL_recipes}?title=${search}&page=${page}&${resizePage()}&time=${time}&area=${area}&ingredient=${ingredient}`;
-    try {
-        const { data } = await axios.get(url);
-        return data;
-    }
-    catch (error) { 
-        console.log("Tarifleri alırken bir hata oluştu \nError happened while fetching recipes:", error);
-    }
-};
+  if (screenWidth >= 1280) {
+    return 'per_page=9&limit=9';
+  }
 
-export async function fetchRecipesByCategory(search, page) {
-    const url = `${API_URL_recipes}?category=${search}&page=${page}&${resizePage()}`;
-    try {
-        const { data } = await axios.get(url);
-        return data;
-    }
-    catch (error) {
-        console.log("Tarifleri alırken bir hata oluştu \nError happened while fetching recipes:", error);
-    }
-};
+  if (screenWidth >= 768 && screenWidth < 1280) {
+    return 'per_page=8&limit=8';
+  }
+
+  if (screenWidth < 768) {
+    return 'per_page=6&limit=6';
+  }
+}
+
+export async function searchOnTitle(searchQuery, page, time = "", area = "", ingredient = "") { // İsme göre tarifleri ara - Search recipes by title
+  const apiUrl = `${BASE_URL}?title=${searchQuery}&page=${page}&${resizePage()}&time=${time}&area=${area}&ingredient=${ingredient}`;
+
+  try {
+    const { data } = await axios.get(apiUrl);
+    return data;
+  } catch (error) {
+    throw new Error('An error occurred while fetching images.');
+  }
+}
+
+export async function searchOnCategory(searchQuery, page) { // Kategoriye göre tarifleri ara - Search recipes by category
+  const apiUrl = `${BASE_URL}?category=${searchQuery}&page=${page}&${resizePage()}`;
+
+  try {
+    const { data } = await axios.get(apiUrl);
+    return data;
+  } catch (error) {
+    throw new Error('An error occurred while fetching images.');
+  }
+}
