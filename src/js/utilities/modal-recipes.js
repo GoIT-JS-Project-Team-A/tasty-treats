@@ -219,3 +219,22 @@ function CreateMarkup(data) { // İçeriğin oluşturma - Create markup
 `;
   return markup;
 }
+
+function addScrollbarText() { // Kaydırma ekleme - Add scrollbar
+  const scrollbarBox = document.querySelector('.recipe-instr');
+  const scrollbar = SmoothScrollbar.init(scrollbarBox, {
+    alwaysShowTracks: true,
+  });
+
+  const scrollbarIngs = document.querySelector('.ingridients');
+  const scrollbarSec = SmoothScrollbar.init(scrollbarIngs, {
+    alwaysShowTracks: true,
+  });
+}
+function addData(markup) { // Veri ekleme - Add data
+  modalRecipes.insertAdjacentHTML('afterbegin', markup);
+}
+function ToggleScroll() { // İçerik gizleme - Hide content
+  const body = document.querySelector('body');
+  body.classList.toggle('overflow-hidden');
+}
