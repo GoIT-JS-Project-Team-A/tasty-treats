@@ -96,6 +96,14 @@
   color: #fff;
 }
 
+.input-section { /* Input bölümü */
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
 @media screen and (max-width: 767px) {
   .search-input {
     width: 335px;
@@ -123,6 +131,18 @@
     min-height: 844px;
     margin-bottom: 64px;
   }
+  
+  .search-section {
+    gap: 18px;
+  }
+
+  .list-time {
+    width: 125px;
+  }
+
+  .list-area {
+    width: 141px;
+  }
 }
 
 /* Desktop Responsive Tasarım - Desktop responsive design */
@@ -136,4 +156,111 @@
     min-height: 908px;
     row-gap: 32px;
   }
+  
+  .search-section {
+    gap: 16px;
+  }
+
+  .search-input {
+    width: 278px;
+  }
+}
+
+/* Spinner */
+
+.spinner-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid var(--accent-color);
+  border-radius: 50%;
+  animation: spin 3s linear infinite;
+  align-self: flex-end;
+}
+
+.search-section {
+  position: relative;
+}
+
+.search-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Form Temizleme Butonu - Clear Form Button */
+
+.svg-icon-clean-button {
+  color: var(--accent-color);
+}
+
+.clear-button {
+  display: flex;
+  align-items: center;
+  border: none;
+  background: none;
+  margin-left: auto;
+  color: var(--primary-color-05);
+  font-size: 12px;
+  margin-bottom: 14px;
+}
+
+.clear-button:hover {
+  text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.svg-button-click {
+  margin-right: 4px;
+}
+
+@media screen and (max-width: 767px) {
+  .input-section {
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .search-res-container {
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #spinner {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-25%, -50%);
+
+    z-index: 1;
+  }
+}
+
+.search-icon.active {
+  fill: var(--accent-color);
+}
+
+.cancel-button-input {
+  position: absolute;
+  right: 18px;
+  cursor: pointer;
+  height: 20px;
+  display: none;
+}
+
+option {
+  background-color: var(--option-color);
 }
