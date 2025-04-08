@@ -60,3 +60,30 @@
   border-color: var(--primary-color-02);
   background-color: inherit;
 }
+
+@media screen and (max-width: 767px) {
+  .search-input {
+    width: 335px;
+  }
+  
+  .search-res-container {
+    width: 335px;
+    margin: 0 auto;
+  }
+}
+
+/* Tablet Responsive Tasarım - Tablet responsive design */
+@media screen and (min-width: 768px) {
+  .search-res-container {
+    width: 496px;
+    min-height: 985px;
+  }
+}
+
+/* Desktop Responsive Tasarım - Desktop responsive design */
+@media screen and (min-width: 1280px) {
+  .search-res-container {
+    width: 782px;
+    min-height: 728px;
+  }
+}
