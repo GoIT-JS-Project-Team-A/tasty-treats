@@ -1,4 +1,4 @@
-13947
+13980
 60C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.editorconfig133885857033994600 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\svgo\plugins\removeRasterImages.js133884206163648132 0
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\css-tree\cjs\generator\token-before.cjs133884206162516397 0
@@ -25,7 +25,7 @@
 110C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\test\PublicMutableBundleGraph.test.js133884205974109050 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\resolver\cup.coffee133884211108666865 0
 71C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\partials\rating.html133885998223253533 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\0d\ce690c3cd89e80acbf430fd88ceea1871d38fa133886088575390297 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\0d\ce690c3cd89e80acbf430fd88ceea1871d38fa133886091263703615 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\utility-types\dist133884205969407890 1
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.weak-map.constructor.js133884205981114490 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\dunder-proto\test\index.js133884205966459521 0
@@ -45,7 +45,7 @@
 67C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\shx\lib133884211109768929 1
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\sass\types\value\string.d.ts133884205973666999 0
 58C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.posthtmlrc133885857034784050 0
-51C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist133886087628646721 1
+51C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist133886121374359936 1
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133884205968305509 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper-bundle.min.css133884205972739226 0
 58C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.htmlnanorc133885857034025978 0
@@ -107,7 +107,7 @@
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\nanoid\index.browser.cjs133884205965193753 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\type-fest\source\asyncify.d.ts133884205966266349 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\readdirp\esm\index.js133884205964716062 0
-63C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\js\utilities133885998223016630 1
+63C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\js\utilities133886115256825975 1
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\thru.js133884205981442767 0
 54C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\.sassrc133885857034784050 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\img\swiper\elipse-bgc-card-1x.png133885857035037281 0
@@ -121,6 +121,7 @@
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\has-symbols\.eslintrc133884205964160814 0
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\is-core-module\CHANGELOG.md133884211108447732 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\lib\syntax\scope133884206164138670 1
+162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.58cf8f51.css.map133886091263430549 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lightningcss\node_modules\detect-libc\LICENSE133884205964350604 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\partials\order-now-modal.html133885998223211883 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\slice.js133884205980459655 0
@@ -206,7 +207,7 @@
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\includes.js133884205977946072 0
 54C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\img133885998222888380 1
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\index.js133884205987808769 0
-61C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\index.html133886089858757794 0
+61C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\index.html133886092536817606 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\cjs\replace\property\font-weight.cjs133884206161343824 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cosmiconfig\dist\Explorer.d.ts133884205971733435 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\svgo\plugins\removeUnusedNS.js133884206163689612 0
@@ -340,7 +341,7 @@
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\array\virtual\some.js133884205994865385 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\svgo\plugins\moveGroupAttrsToElems.js133884206163462527 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\minBy.js133884205979266478 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ee\c6971aed2e8367b2744ff32d5052e7b5cb13d3133884211654455402 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ee\c6971aed2e8367b2744ff32d5052e7b5cb13d3133886091263749727 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\make-dir\node_modules133884211543174636 1
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\partials\modal-recipes.html133885998223180622 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\async\package.json133884211543065355 0
@@ -394,7 +395,7 @@
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\string\starts-with.js133884205995365651 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_baseUnary.js133884205973709257 0
 121C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\semver\classes\index.js133884205969220878 0
-80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\js\utilities\modal-recipes.js133885924024105494 0
+80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\js\utilities\modal-recipes.js133886121372939640 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\tui-pagination\dist\tui-pagination.min.css133884205965162402 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\object\freeze.js133884205985285365 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\js\utilities\order-now-modal.js133885857035078305 0
@@ -451,7 +452,6 @@
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_createToPairs.js133884205974557738 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\img\favorites\card1080px-desk@1x.webp133885857034974662 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\min.js133884205979220933 0
-162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.9f367d21.css.map133886088575040011 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_class_private_method_set.js133884205973997920 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\shelljs\src\head.js133884211108698134 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\instance\sort.js133884205995079652 0
@@ -538,7 +538,7 @@
 68C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\nice-try133884211108140736 1
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\semver\ranges\gtr.js133884205968817788 0
 132C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\file2.txt133884205972180311 0
-63C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\css\main.css133885857034918239 0
+63C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\css\main.css133886093416077150 0
 68C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\svgo\bin133884206162185037 1
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\set\is-disjoint-from.js133884205988557818 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133884205973082392 0
@@ -580,7 +580,7 @@
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\async.js133884211108703286 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\PR.js133884205979081045 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\sampleSize.js133884205980392748 0
-73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.98fb8336.js133886087627645213 0
+73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.98fb8336.js133886119756429317 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\postcss\lib\stringifier.js133884205969695733 0
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\node_modules\semver\ranges\subset.js133884205971658605 0
 72C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\src\css\layout\header.css133885857034902861 0
@@ -728,7 +728,7 @@
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@msgpackr-extract133884211543923238 1
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\set133884205998937547 1
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\math\log10.js133884205990394538 0
-81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\Inter-SemiBold.b484db7e.woff2133886087627336629 0
+81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\Inter-SemiBold.b484db7e.woff2133886119756048613 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\svgo\lib\types.d.ts133884206163089657 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\dotenv\lib\env-options.js133884205965694975 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\async\retryable.js133884211542872284 0
@@ -1026,7 +1026,7 @@
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\modules\thumbs.min.css133884205972839567 0
 72C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\pump\.github133884211108213901 1
 116C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.js133884206160573944 0
-80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\Inter-Regular.65133734.woff2133886087627572114 0
+80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\Inter-Regular.65133734.woff2133886119756215370 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\email-addresses133884211542018313 1
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\utils133884205973130538 1
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.regexp.test.js133884205980031775 0
@@ -1351,7 +1351,6 @@
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\supports-color\browser.js133884205964574548 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\weak-set\add-all.js133884205970103741 0
 201C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\pack\pack-57e33dc62a41af65034e5d015caf0d3ae9bbee51.pack133884211644330336 0
-157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.31b563d9.js133886088575114703 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\reporter-cli\test\CLIReporter.test.js133884205967851362 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\toLength.js133884205981535813 0
 66C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash133884205982316327 1
@@ -1712,6 +1711,7 @@
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_Symbol.js133884205975809701 0
 136C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\entities\lib\decode_codepoint.d.ts.map133884205969680237 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\weak-lru-cache\dist133884205963961719 1
+155C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.db80aa57.css133886091263399271 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\js-yaml\README.md133884205970802281 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\lib\clean\Comment.js133884206161906161 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\function\index.js133884205987455657 0
@@ -1739,6 +1739,7 @@
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.walk\out\readers\async.d.ts133884205969052337 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\css-tree\lib\walker\index.js133884206163541090 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\weak-lru-cache\tests\benchmark.js133884205964847024 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\b1133886090811768971 1
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_baseIsTypedArray.js133884205972781213 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\host-report-errors.js133884205986774532 0
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\decorators133884205974433320 1
@@ -1855,7 +1856,9 @@
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\update-browserslist-db\check-npm-version.js133884205964569279 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_listCacheHas.js133884205975285099 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\typed-array\some.js133884205994898172 0
+163C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card335px-mob@1x.716441ed.webp133886091263383284 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\update-browserslist-db\index.d.ts133884205967077689 0
+165C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card1080px-desk@1x.d97bb0ce.webp133886091263383284 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_arraySample.js133884205968707452 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\update-browserslist-db\package.json133884205966416571 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\timsort\build\timsort.min.js133884205966893344 0
@@ -1941,7 +1944,7 @@
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\type-fest\ts41\kebab-case.d.ts133884205969371595 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.stat\out\index.d.ts133884205968456952 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\p-locate\package.json133884211541602184 0
-62C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\index.html133886087628249759 0
+62C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\index.html133886119757111497 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.from.js133884205980602452 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper-element-bundle.min.js.map133884205974845176 0
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\index.js.map133884206160993181 0
@@ -2147,7 +2150,6 @@
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\regexp\split.js133884205995322143 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\trim-repeated\index.js133884211541695579 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133884206162390579 0
-163C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card335px-mob@1x.d7ee14f3.webp133886088575014585 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\resolver\symlinked\package\bar.js133884211108776008 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\body-scroll-lock\package.json133884205965224966 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\conformsTo.js133884205976664755 0
@@ -2159,7 +2161,8 @@
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\set\index.js133884205988174247 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_await_async_generator133884205975210265 1
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\mergeAllWith.js133884205979175288 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\fd\fdcc699fc1e19eb1943c2896e8d66e17b538ff133886088575359503 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\20\d7404958b623e89de903bf03d41d9557bb4df2133886091263749727 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\fd\fdcc699fc1e19eb1943c2896e8d66e17b538ff133886091263672532 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper-bundle.min.mjs.map133884205974676289 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\css-tree\cjs\tokenizer133884206162621423 1
 118C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\css-tree\lib\syntax\node\UnicodeRange.js133884206164017092 0
@@ -2212,7 +2215,7 @@
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\modules\effect-coverflow.min.mjs.map133884205974251929 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\package.json133884205973791838 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\math-intrinsics\CHANGELOG.md133884205969387034 0
-79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\Inter-Medium.0faa8e5e.woff2133886087627512515 0
+79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\Inter-Medium.0faa8e5e.woff2133886119756262483 0
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\shared133884205975993042 1
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lightningcss\node\targets.d.ts133884205969439754 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\posthtml-expressions\lib\escape.js133884205965178327 0
@@ -2288,6 +2291,7 @@
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\utils\index.js133884205969654317 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array\index-of.js133884205987089197 0
 74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\pump\README.md133884211108171889 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\76133886090809821113 1
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\object\values.js133884205999298319 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fs-extra\LICENSE133884211541633384 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\swiper.min.js133884205973771082 0
@@ -2564,6 +2568,7 @@
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\modules\effect-cards-element.css133884205968115450 0
 104C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\node_modules\node-addon-api\except.gypi133884205965472093 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\entities\lib\encode.js133884206160637201 0
+162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.b05837ca.css.map133886091263399271 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\mdn-data\css\units.schema.json133884206161548560 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\modules\parallax.less133884205974045139 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\swiper\modules\effect-cards.css133884205968430869 0
@@ -2645,7 +2650,6 @@
 149C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\generated\decode-data-xml.d.ts.map133884205970355688 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\async\forever.js133884211542559989 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\postcss\lib\symbols.js133884205969874824 0
-163C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card704px-tab@1x.60c19c66.webp133886088575024637 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\src\geometry\index.ts133884205974098646 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array-buffer\slice.js133884205994563014 0
 69C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\json5\lib133884205969596196 1
@@ -3238,7 +3242,7 @@
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\utils\get-position.d.ts133884205973816242 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\string\from-code-point.js133884205985366722 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.array.filter-reject.js133884205981422093 0
-73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.a581e19e.js133886087627491487 0
+73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.a581e19e.js133886119756111438 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\path-key\package.json133884211108005440 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\optimizer-svgo\lib133884205964679848 1
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\utils\get-position.js133884205968162253 0
@@ -3420,7 +3424,6 @@
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\interfaces\plugin.js.map133884205972915772 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\p-finally\readme.md133884211108130435 0
 111C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\function-uncurry-this-accessor.js133884205985708156 0
-158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.9f367d21.css133886088575040011 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\interfaces\scrollbar.d.ts133884205974557738 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\smooth-scrollbar\interfaces\scrollbar.js133884205970886844 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\minimist\.github\FUNDING.yml133884211108542040 0
@@ -3575,6 +3578,7 @@
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\shx\package.json133884211109784597 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\postcss\lib\container.d.ts133884205970812674 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\object\is-extensible.js133884205988657604 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\76\5ee886f516abc67cc157d93453d85d95753b57133886091263790202 0
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\shx\README.md133884211109800168 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\shelljs\global.js133884211108682669 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\array\group-to-map.js133884205986545330 0
@@ -3794,7 +3798,7 @@
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\sass\types\util\promise_or.d.ts133884205973588547 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\path-key\license133884211108088885 0
 115C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\020-usage.md133884205972408031 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\97\3dd386fb4ae616d3c0152a85691a6fa7aafdca133884211654823785 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\97\3dd386fb4ae616d3c0152a85691a6fa7aafdca133886091263836455 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\sass\types\logger\index.d.ts133884205973360222 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\isLength.js133884205978368620 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\collection.js133884205976513161 0
@@ -4005,7 +4009,7 @@
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\resolver\other_path\lib\other-lib.js133884211109369198 0
 129C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\semver\ranges\to-comparators.js133884205971701886 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\htmlparser2\lib\index.js133884205965199016 0
-143C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\index.html133886088575024637 0
+143C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\index.html133886091263399271 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\set\symmetric-difference.js133884205996056932 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fast-glob\out\readers\sync.js133884205970186576 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\msgpackr-extract\LICENSE133884205964077459 0
@@ -4075,7 +4079,7 @@
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\immutable\dist\immutable.js.flow133884205965099989 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_baseIsNative.js133884205972718250 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\node_path\y\ccc\index.js133884211109098850 0
-142C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\HEAD133886088572920487 0
+142C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\HEAD133886091261551658 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\extend.js133884205977298725 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\node_path\x\ccc\index.js133884211109072864 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\node_path\x\aaa\index.js133884211109041454 0
@@ -4098,7 +4102,7 @@
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\instance\filter-out.js133884205983448728 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\module_dir\xmodules\aaa\index.js133884211109005258 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\instance\includes.js133884205987064019 0
-82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card704px-tab@1x.60c19c66.webp133886087627320101 0
+82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card704px-tab@1x.60c19c66.webp133886119756037952 0
 71C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\js-yaml\lib133884205970539906 1
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_isStrictComparable.js133884205975179378 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\test\dotdot\abc133884211108979442 1
@@ -4119,7 +4123,7 @@
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\resolve\.github\FUNDING.yml133884211109624312 0
 108C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\copy-constructor-properties.js133884205976633344 0
 74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\rest.js133884205980320778 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\88\00e791321ce66aeb2d857b21c2c7f0d1155165133886088575374900 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\88\00e791321ce66aeb2d857b21c2c7f0d1155165133886091263687868 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\array\sort.js133884205995095083 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\regenerator-runtime\README.md133884205966088071 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.weak-set.js133884205981129946 0
@@ -4288,7 +4292,7 @@
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\sortedIndexOf.js133884205980531147 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\function\is-callable.js133884205988494642 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\postcss\lib\container.js133884205965663946 0
-148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\heads133886088573673686 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\heads133886091262253627 1
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\esm\helpers.d.ts.map133884206160862994 0
 132C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\dom-serializer\lib\foreignNames.js133884205965637321 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\postcss\lib\css-syntax-error.d.ts133884205970913056 0
@@ -4430,7 +4434,7 @@
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\parcel-reporter-clean-dist\LICENSE133884205964590776 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\parcel-reporter-clean-dist\package.json133884205968994786 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\reflect\get-metadata.js133884205985924344 0
-82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card335px-mob@1x.d7ee14f3.webp133886087627593152 0
+82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card335px-mob@1x.d7ee14f3.webp133886119756111438 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\error-overlay\lib\index.js133884205968691754 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\typed-array\every.js133884205983112095 0
 126C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\domutils\lib\helpers.d.ts.map133884205969901319 0
@@ -4492,6 +4496,7 @@
 74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\async\foldl.js133884211542492555 0
 122C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\embed133884205972580620 1
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domhandler\lib\index.js133884206160479945 0
+157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.de654fd6.js133886091263445996 0
 126C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4\files\file1.txt133884205971148899 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\instance\flat-map.js133884205984621899 0
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fs-extra\lib\empty\index.js133884211541961098 0
@@ -4626,7 +4631,7 @@
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\environment-is-ie-or-edge.js133884205978134229 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\nullthrows\nullthrows.js.flow133884205965975168 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\cjs\definition-syntax133884206162759237 1
-77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.98fb8336.js.map133886087627785343 0
+77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.98fb8336.js.map133886119756512392 0
 72C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\lib133884206164182367 1
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\nullthrows\README.md133884205966344267 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.json.is-raw-json.js133884205981927072 0
@@ -4900,7 +4905,7 @@
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\math-intrinsics\floor.js133884205965519697 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\mime-db\HISTORY.md133884205966990780 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fast-glob\out\readers\stream.d.ts133884205972023065 0
-171C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs\remotes\origin\gh-pages133886088295263218 0
+171C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs\remotes\origin\gh-pages133886090834377917 0
 127C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\htmlparser2\lib\esm\index.d.ts133884205970444795 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\composite-key.js133884205975982398 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\mime-db\LICENSE133884205964100285 0
@@ -5065,6 +5070,7 @@
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\math-intrinsics\constants\maxValue.js133884205968320993 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\make-dir\index.js133884211541690385 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\make-dir\license133884211541623099 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\40\265b6ed1c0c0a74862f559243b2ec40535440f133886091263836455 0
 128C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133884206160542594 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\make-dir\package.json133884211541753196 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\bundler-default\src\DefaultBundler.js133884205966266349 0
@@ -5089,7 +5095,7 @@
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\make-dir\node_modules\.bin\semver.cmd133884211543210926 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@mischnic\json-sourcemap\LICENSE133884205964340326 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\forOwnRight.js133884205977726553 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ff\0a846496c7da7d4cbd3c067697864cc461f9cf133886088575405675 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ff\0a846496c7da7d4cbd3c067697864cc461f9cf133886091263718935 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\make-dir\node_modules\.bin\semver.ps1133884211543205668 0
 108C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133884205967951257 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\data-view\index.js133884205988054364 0
@@ -5109,7 +5115,7 @@
 72C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\at.js133884205976177023 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\fontface.js133884205976747889 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\before.js133884205976218960 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d1\d15a5c17fbd6bd04b910e69fdb8c7177a4b6c2133886088575405675 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d1\d15a5c17fbd6bd04b910e69fdb8c7177a4b6c2133886091263749727 0
 120C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133884205973666999 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\unapply.js133884205981779816 0
 131C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\domutils\lib\esm\manipulation.d.ts133884205972402842 0
@@ -5191,7 +5197,6 @@
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\extendWith.js133884205977324453 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fs-extra\lib\move\move.js133884211542102047 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\gh-pages.ps1133884211543195305 0
-162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.c2b0d9e4.css.map133886088575040011 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\htmlnano\lib\modules\mergeScripts.mjs133884205973161850 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\math\to-string-tag.js133884205997780354 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\get-port\index.js133884205965074866 0
@@ -5463,10 +5468,12 @@
 104C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\semver133884205971880139 1
 124C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\css-tree\cjs\syntax\config\parser-selector.cjs133884206162210906 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\delete-property-or-throw.js133884205977392539 0
+165C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card2160px-desk@2x.581b0827.webp133886091263430549 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\template.js133884205981347902 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\instance\reverse.js133884205993502203 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\templateSettings.js133884205981384076 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\throttle.js133884205981432439 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d0\ce27b78e1c3307d0f9c29fc5b49f15bcde5477133886091263759789 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\web\url-search-params.js133884205999197112 0
 74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\thru.js133884205981448085 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\times.js133884205981463786 0
@@ -5478,7 +5485,7 @@
 143C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.gitignore133884211645056827 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\get-stream\readme.md133884211108166709 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\toLower.js133884205981556975 0
-132C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git133886088575014585 1
+132C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git133886091263383284 1
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\toString.js133884205981664466 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\toUpper.js133884205981674744 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.array.find.js133884205978399535 0
@@ -5752,7 +5759,7 @@
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_coreJsData.js133884205974189735 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\follow-redirects\README.md133884205966830521 0
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_createAggregator.js133884205974210416 0
-143C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\index133886088575536197 0
+143C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\index133886091263894039 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\deburr.js133884205976873782 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.symbol.split.js133884205980490321 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fast-glob\out\readers133884205972253379 1
@@ -5793,6 +5800,7 @@
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\fieldset-disabled.js133884205976507975 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\has-tostringtag\README.md133884205968410061 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_equalByTag.js133884205974671126 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\b2\c758c7b849a2ddca81fe8b0c8732548d4ea39b133886091263821018 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\cjs\_object_spread_props.cjs133884205972650762 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\function-bind\.nycrc133884205965199016 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\_equalObjects.js133884205974696576 0
@@ -5974,6 +5982,7 @@
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\commit.js133884205976538961 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\ignore\legacy.js133884211541768892 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\cjs\definition-syntax\walk.cjs133884206162764393 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\14\c1ebf685946b1e79d79c4c83738ded933c920c133886091263759789 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\compose.js133884205976585853 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\number\parse-float.js133884205991979162 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\nanoid.cmd133884206000241169 0
@@ -6050,7 +6059,7 @@
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\findFrom.js133884205977387310 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\string\iterator.js133884205989686784 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\findIndex.js133884205977402982 0
-157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\remotes\origin133886088591012290 1
+157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\remotes\origin133886091275560132 1
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\entries.js133884205977959131 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\findIndexFrom.js133884205977415084 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\findKey.js133884205977426025 0
@@ -6183,7 +6192,7 @@
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\join.js133884205978754568 0
 122C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\entities\lib\decode.d.ts133884205972460167 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\juxt.js133884205978774593 0
-76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.31b563d9.js133886087627848380 0
+76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.31b563d9.js133886119756288290 0
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\gopd\index.js133884205965540468 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\kebabCase.js133884205978779833 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\keysIn.js133884205978825858 0
@@ -6221,7 +6230,6 @@
 126C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\htmlparser2\lib\esm\Parser.js133884205966168320 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\next.js133884205979327893 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.to-reversed.js133884205981049320 0
-162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.34df27b5.css.map133886088575040011 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\has-symbols\index.js133884205966537374 0
 128C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\htmlparser2\lib\Parser.d.ts.map133884205969157208 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\noop.js133884205979333073 0
@@ -6404,6 +6412,7 @@
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\values.js133884205999262741 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\unnest.js133884205981900724 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\unzipWith.js133884205981937796 0
+154C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.0c94c45e.js133886091263383284 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\update.js133884205981948334 0
 110C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\object-property-is-enumerable.js133884205991543026 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lodash\fp\updateWith.js133884205981963817 0
@@ -6459,7 +6468,6 @@
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\rollup.config.js133884205974194847 0
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\SECURITY.md133884205974417252 0
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\write.js133884205974225991 0
-157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.961078c9.js133886088575104631 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fs-extra\lib\output-file133884211542044878 1
 104C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\string\virtual\code-point-at.js133884205975825173 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\lmdb\util\RangeIterable.js133884205974163461 0
@@ -6965,7 +6973,6 @@
 76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\globals\index.js133884205964616991 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\escalade\readme.md133884205966214912 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\globals\package.json133884205965901133 0
-165C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card1080px-desk@1x.5ae9fbcf.webp133886088575014585 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\globals\readme.md133884205966287302 0
 119C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\ltr.js133884205969826204 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\glob-parent\CHANGELOG.md133884205965545644 0
@@ -7135,7 +7142,7 @@
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_apply_decs_2203_r133884205975065181 1
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fast-glob\out\utils\stream.js133884205969971573 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fast-glob\out\utils\string.js133884205970045599 0
-82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card670px-mob@2x.ebe813fe.webp133886087627491487 0
+82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card670px-mob@2x.ebe813fe.webp133886119756486481 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\fast-glob\out\types\index.js133884205968717856 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\string\match.js133884205990971852 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\es-set-tostringtag\.eslintrc133884205964230389 0
@@ -7380,7 +7387,7 @@
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\packager-js\lib\DevPackager.js133884205966639682 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\domutils\lib\helpers.js133884205965204163 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\domutils\lib\index.d.ts133884205969522951 0
-77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.34df27b5.css133886087627875234 0
+77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.34df27b5.css133886119756554389 0
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\domutils\lib\index.d.ts.map133884205968368082 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\domutils\lib\index.js133884205965795951 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\domutils\lib\legacy.d.ts133884205969638752 0
@@ -7526,7 +7533,7 @@
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\mdn-data\l10n\css.json133884206161224726 0
 111C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_class_apply_descriptor_update.mjs133884205976863431 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\mdn-data\l10n\index.js133884206160998393 0
-166C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\remotes\origin\gh-pages133886088295263218 0
+166C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\remotes\origin\gh-pages133886090834377917 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\mdn-data\css\definitions.json133884206161254220 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\csso\node_modules\mdn-data\css\properties.json133884206161410737 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.map.some.js133884205982077837 0
@@ -7954,7 +7961,7 @@
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\axios\dist\node133884205973213945 1
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\lib\utils\url.js133884206164117916 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\lib\tokenizer\adopt-buffer.js133884206162793579 0
-162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs\heads\gh-pages133886088267993677 0
+162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs\heads\gh-pages133886090811785923 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133884206162920031 0
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\json133884205997719570 1
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-tree\lib\tokenizer\index.js133884206163595789 0
@@ -8334,7 +8341,7 @@
 112C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\querying.js.map133884206161280767 0
 136C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.win32-x64-msvc.node133884205973156714 0
 115C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\stringify.d.ts.map133884206161317778 0
-66C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.html133886087628234108 0
+66C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.html133886119757132202 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.symbol.match.js133884205980459655 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.string.cooked.js133884205982601428 0
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\stringify.js133884206160645031 0
@@ -8358,7 +8365,7 @@
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\esm\index.js133884206160516251 0
 122C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\entities\lib\index.js.map133884205972130307 0
 113C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\esm\index.js.map133884206160977523 0
-84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card2160px-desk@2x.c3f9a1cf.webp133886087627445039 0
+84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card2160px-desk@2x.c3f9a1cf.webp133886119756111438 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\cjs\_object_without_properties.cjs133884205972728879 0
 112C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\esm\legacy.d.ts133884206161559045 0
 116C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\node_modules\domutils\lib\esm\legacy.d.ts.map133884206161009204 0
@@ -8483,7 +8490,7 @@
 115C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\lib\esm\pseudo-selectors\subselects.d.ts.map133884206162932898 0
 113C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js.map133884206162957307 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cross-spawn\index.js133884211108151063 0
-72C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favicon.8b2f57bf.png133886087627320101 0
+72C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favicon.8b2f57bf.png133886119756132205 0
 75C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cross-spawn\lib133884211108161499 1
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\string\trim-left.js133884205998202648 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cross-spawn\LICENSE133884211108015775 0
@@ -8493,7 +8500,6 @@
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\6f\8849c694612427567b76291caaf99df9d3974b133884211656001208 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\test\fixtures\context\package.json133884205975080646 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\push.js133884205992478450 0
-165C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card2160px-desk@2x.c3f9a1cf.webp133886088575089009 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cross-spawn\lib\enoent.js133884211108062987 0
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cross-spawn\lib\parse.js133884211108171889 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\cross-spawn\lib\util\resolveCommand.js133884211108197703 0
@@ -8720,6 +8726,7 @@
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\string\virtual\ends-with.js133884205977940807 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.json.stringify.js133884205978976462 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\typed-array\filter.js133884205983644810 0
+162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.af0def3d.css.map133886091263399271 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\string\virtual\fixed.js133884205984470519 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-fixed.js133884205974645217 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\stable\string\virtual\fontcolor.js133884205984950875 0
@@ -9275,6 +9282,7 @@
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.subarray.js133884205981028486 0
 110C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.to-locale-string.js133884205981038824 0
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.to-string.js133884205981066407 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\b2133886090810049142 1
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.typed-array.uint32-array.js133884205981076875 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\es.weak-map.js133884205981119640 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.array-buffer.detached.js133884205981317030 0
@@ -9417,9 +9425,7 @@
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\symbol\replace.js133884205993439805 0
 108C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.typed-array.from-async.js133884205982782299 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\suppressed-error.js133884205995998833 0
-162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\Inter-SemiBold.b484db7e.woff2133886088575073575 0
 108C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.typed-array.to-spliced.js133884205982818616 0
-80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.961078c9.js.map133886087627785343 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.typed-array.unique-by.js133884205982823755 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.typed-array.with.js133884205982828910 0
 113C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\modules\esnext.uint8-array.set-from-base64.js133884205982854636 0
@@ -9500,7 +9506,6 @@
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\create-html.js133884205976863431 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\typed-array\sort.js133884205995053283 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\create-iter-result-object.js133884205976868583 0
-158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.98fb8336.js.map133886088575024637 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\watcher\src\Watcher.cc133884205968902210 0
 111C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\create-non-enumerable-property.js133884205976873782 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\iterator-close.js133884205989547476 0
@@ -9573,6 +9578,7 @@
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\map-helpers.js133884205990537557 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\reflect\prevent-extensions.js133884205992285042 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\map-iterate.js133884205990542750 0
+151C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\icons.c5b0f01c.svg133886091263399271 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\map-upsert.js133884205990589319 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\math-log10.js133884205991033758 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\internals\math-log1p.js133884205991038970 0
@@ -9732,7 +9738,6 @@
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\typed-array\uint16-array.js133884205998675268 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\typed-array\values.js133884205999362677 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\symbol\async-dispose.js133884205974129897 0
-159C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.7fb486d3.css.map133886088575024637 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\symbol\async-iterator.js133884205974321643 0
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\reflect\delete-property.js133884205977415084 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_class_call_check.js133884205973786665 0
@@ -9779,6 +9784,7 @@
 113C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\entities\lib\esm133884205972713075 1
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_assert_this_initialized133884205975132883 1
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\string\virtual\bold.js133884205975419442 0
+158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.b05837ca.css133886091263399271 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\string\virtual\fixed.js133884205984454464 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\string\virtual\iterator.js133884205989778471 0
 115C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\semver\preload.js133884205970722565 0
@@ -9800,6 +9806,7 @@
 84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\set\from.js133884205985551906 0
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\set\index.js133884205987975730 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\set\intersection.js133884205988432753 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\69133886090809711483 1
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\set\map.js133884205990751590 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\set\symmetric-difference.js133884205996072476 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\regexp\dot-all.js133884205977736914 0
@@ -10032,7 +10039,7 @@
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-text-justify.js133884205975556375 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\concat.js133884205976122259 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\entries.js133884205978060444 0
-147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.html133886088575024637 0
+147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.html133886091263399271 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\fill.js133884205983370111 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\array\to-spliced.js133884205997123915 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\full\array\virtual\filter-out.js133884205983443436 0
@@ -10075,6 +10082,7 @@
 111C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\weak-map\get-or-insert-computed.js133884205985950061 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\weak-map\index.js133884205987793580 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\url\can-parse.js133884205975509419 0
+161C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.de654fd6.js.map133886091263451136 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_export_star.js133884205974220796 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\url\index.js133884205987778314 0
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\typed-array\copy-within.js133884205976721927 0
@@ -10206,7 +10214,7 @@
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\workers\test\workerfarm.js133884205971955184 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\object\group-by.js133884205986469166 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\object\is-extensible.js133884205988636686 0
-83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card1408px-tab@2x.6e21db3d.webp133886087627614137 0
+83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card1408px-tab@2x.6e21db3d.webp133886119756127035 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\object\is.js133884205989306664 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\object\iterate-keys.js133884205989484534 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\features\object\iterate-values.js133884205989505184 0
@@ -10543,6 +10551,7 @@
 116C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_class_static_private_field_spec_set.js133884205974050316 0
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133884205977053014 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\set\index.js133884205987549071 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\e1\18921588eb4199500d12b21bc3d5a4f3c0e605133886091263764835 0
 124C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-js\node_modules\semver\internal\constants.js133884205967861934 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\set\intersection.js133884205988422497 0
 113C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\LICENSE133884205964371325 0
@@ -10738,6 +10747,7 @@
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\array\virtual\concat.js133884205976060867 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\array\virtual\entries.js133884205977981458 0
 93C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\array\virtual\every.js133884205983031757 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\90133886090810189320 1
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\array\virtual\fill.js133884205983317101 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\array\virtual\find-index.js133884205983731527 0
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\es\array\virtual\find-last-index.js133884205983883276 0
@@ -10995,7 +11005,6 @@
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\number\virtual\to-exponential.js133884205996350083 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\number\virtual\to-fixed.js133884205996402535 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\number\virtual\to-precision.js133884205996697235 0
-158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.34df27b5.css133886088575024637 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\math\asinh.js133884205973865773 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\math\clz32.js133884205975689445 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\IQ.js133884205977619081 0
@@ -11052,6 +11061,7 @@
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\replace-all.js133884205993269809 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\slice.js133884205994598131 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\sort.js133884205995006880 0
+153C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favicon.17628e0e.png133886091263383284 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\starts-with.js133884205995338502 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\instance\to-sorted.js133884205996971181 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_non_iterable_spread.mjs133884205977272586 0
@@ -11099,7 +11109,7 @@
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\CO.js133884205973661812 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\async-iterator\from.js133884205985439007 0
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\sass.cmd133884206000241169 0
-147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\HEAD133886088573632033 0
+147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\HEAD133886091262209565 0
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\workers\LICENSE133884205964256174 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\async-iterator\index.js133884205987236772 0
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\async-iterator\map.js133884205990620141 0
@@ -11156,7 +11166,6 @@
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array\virtual\flat-map.js133884205984548515 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array\virtual\for-each.js133884205985047678 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array\virtual\group-by-to-map.js133884205986360692 0
-160C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\Inter-Medium.0faa8e5e.woff2133886088575073575 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs133884205977199650 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array\virtual\group-by.js133884205986406371 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\core-js\actual\array\virtual\group.js133884205986578638 0
@@ -11258,6 +11267,7 @@
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\alt-an.js133884205969174084 0
 119C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-js\node_modules\semver\classes\index.js133884205969226057 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\alt-eu.js133884205969407890 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\14133886090809417487 1
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\alt-oc.js133884205969590995 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\alt-sa.js133884205969685448 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\alt-ww.js133884205969784362 0
@@ -11282,6 +11292,7 @@
 103C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\selection-api.js133884205979722463 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\CD.js133884205973313438 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\CF.js133884205973328987 0
+161C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\Inter-Regular.41612c8e.woff2133886091263414666 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\CG.js133884205973355067 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\CH.js133884205973391204 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\CL.js133884205973543893 0
@@ -11354,6 +11365,7 @@
 68C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\shx133884211109951193 0
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_object_spread_props133884205976142971 1
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\LA.js133884205977879079 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\50\4ad2cf3c1d7b1fb984f4cc2fe16a3d2bafff47133886090811582644 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\LB.js133884205977908681 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\LC.js133884205977919129 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\LR.js133884205978024255 0
@@ -11376,6 +11388,7 @@
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\MO.js133884205978331796 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\MP.js133884205978342529 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\MQ.js133884205978373752 0
+163C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card704px-tab@1x.cda6f0bf.webp133886091263383284 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\MT.js133884205978399535 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\regions\MU.js133884205978409902 0
 130C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133884205975253014 0
@@ -11529,7 +11542,7 @@
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-env-function.js133884205974526973 0
 104C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-exclusions.js133884205974552575 0
 108C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-featurequeries.js133884205974568139 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\2b\cd222ecfae996d035ff72bf70672305cc29261133886088575359503 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\2b\cd222ecfae996d035ff72bf70672305cc29261133886091263687868 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-filters.js133884205974603644 0
 125C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133884205976878899 0
 106C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css-first-letter.js133884205974618740 0
@@ -11610,7 +11623,7 @@
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\requestidlecallback.js133884205979322737 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css3-cursors.js133884205975763268 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\css3-tabsize.js133884205975773578 0
-80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.31b563d9.js.map133886087627923343 0
+80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.31b563d9.js.map133886119756403387 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js133884205969371595 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\custom-elementsv1.js133884205975809701 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\caniuse-lite\data\features\datalist.js133884205975872267 0
@@ -12148,6 +12161,7 @@
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_class_private_field_update133884205975535255 1
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_class_private_method_get133884205975545854 1
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_class_private_method_init133884205975562499 1
+161C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.319df5b1.js.map133886091263451136 0
 100C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_class_private_method_set133884205975578553 1
 114C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_class_static_private_field_destructure133884205975590153 1
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_class_static_private_method_get133884205975648124 1
@@ -12213,7 +12227,7 @@
 116C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_is_native_reflect_construct\package.json133884205975998195 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_inherits\package.json133884205975898655 0
 113C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133884205975971671 0
-84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card1080px-desk@1x.5ae9fbcf.webp133886087627512515 0
+84C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\card1080px-desk@1x.5ae9fbcf.webp133886119756403387 0
 112C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_interop_require_default\package.json133884205975961288 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_instanceof\package.json133884205975945657 0
 115C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133884205975930154 0
@@ -12318,7 +12332,7 @@
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_using.mjs133884205977503567 0
 150C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-html\node_modules\entities\lib\esm\generated\decode-data-html.d.ts.map133884205970017837 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_wrap_async_generator.mjs133884205977508777 0
-148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\FETCH_HEAD133886088571564372 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\FETCH_HEAD133886091260376821 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_wrap_native_super.mjs133884205977519242 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\src\_write_only_error.mjs133884205977524369 0
 101C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\node_modules\tslib\README.md133884205967390568 0
@@ -12372,6 +12386,7 @@
 104C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_interop_require_default.js133884205974369227 0
 108C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133884205974422488 0
 98C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_iterable_to_array.js133884205974463737 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\31\9d331725e2a19cb78131f97b172f9bda73019f133886091263774882 0
 104C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_iterable_to_array_limit.js133884205974451870 0
 110C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\helpers\esm\_iterable_to_array_limit_loose.js133884205974433320 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-js\node_modules\semver133884205971880139 1
@@ -12476,12 +12491,12 @@
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\core\spack.d.ts133884205967856750 0
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\core\spack.js133884205968060848 0
 79C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\core\util.d.ts133884205968225109 0
-70C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\icons.7bd9dd61.svg133886087628114373 0
+70C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\icons.7bd9dd61.svg133886119756840620 0
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\core\util.js133884205968378740 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@swc\core\Visitor.js133884205965136313 0
 73C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\cache133884205968655285 1
 77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\codeframe133884205970329614 1
-152C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\COMMIT_EDITMSG133886088267906354 0
+152C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\COMMIT_EDITMSG133886090811691980 0
 82C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\compressor-raw133884205965727349 1
 78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\diagnostic133884205966650219 1
 74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\events133884205968488100 1
@@ -12489,7 +12504,7 @@
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\optimizer-css133884205965845227 1
 83C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\optimizer-image133884205965136313 1
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\packager-css133884205965840071 1
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\fb\ae113d2855e22c06376495bd2dfe5f02411272133886088575374900 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\fb\ae113d2855e22c06376495bd2dfe5f02411272133886091263687868 0
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\packager-raw133884205965723247 1
 80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\packager-svg133884205965716489 1
 81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\packager-wasm133884205966777957 1
@@ -12648,7 +12663,7 @@
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\lib133884205966934944 1
 96C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\package.json133884205967673317 0
 88C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\test133884205966634570 1
-81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.34df27b5.css.map133886087627923343 0
+81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.34df27b5.css.map133886119756606277 0
 102C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\lib\serializerCore.browser.js133884205974337665 0
 109C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\test\parseFuncIRI.test.js133884205966703609 0
 105C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133884205967442384 0
@@ -12689,7 +12704,6 @@
 122C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\semver\functions\rsort.js133884205971054508 0
 125C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\semver\classes\comparator.js133884205966579707 0
 120C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\semver\classes\index.js133884205969215661 0
-153C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favicon.8b2f57bf.png133886088575024637 0
 120C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\semver\classes\range.js133884205970876500 0
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\semver\bin\semver.js133884205971249004 0
 117C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\dist133884205966719504 1
@@ -12888,9 +12902,7 @@
 123C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\README.md133884205970334771 0
 128C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\index.d.ts133884205970523990 0
 132C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\index.d.ts.map133884205968608427 0
-154C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.a581e19e.js133886088575024637 0
 129C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\Parser.d.ts133884205970685752 0
-158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.a581e19e.js.map133886088575024637 0
 133C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\Parser.d.ts.map133884205969157208 0
 132C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts133884205970844670 0
 136C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts.map133884205969627885 0
@@ -12947,6 +12959,7 @@
 145C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\entities\lib\esm\generated\encode-html.d.ts133884205972538728 0
 125C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\feeds.d.ts133884205972023065 0
 123C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\feeds.js133884205965648177 0
+154C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.bce89d45.js133886091263383284 0
 127C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\feeds.js.map133884205969732850 0
 127C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\helpers.d.ts133884205972161549 0
 129C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-posthtml\node_modules\domutils\lib\helpers.js.map133884205970066723 0
@@ -13029,7 +13042,6 @@
 125C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-postcss\node_modules\semver\internal\debug.js133884205968055609 0
 128C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-postcss\node_modules\semver\internal\lrucache.js133884205969548738 0
 122C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-postcss\node_modules\semver\internal\re.js133884205971007530 0
-155C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.7fb486d3.css133886088575024637 0
 134C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\compare-loose.js133884205967314430 0
 128C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-postcss\node_modules\semver\functions\compare.js133884205967589225 0
 107C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-json\src\JSONTransformer.js133884205965330027 0
@@ -13288,6 +13300,7 @@
 112C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\ranges133884205971791111 1
 115C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\README.md133884205971944753 0
 119C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\gtr.js133884205968828101 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\17133886090810123344 1
 130C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\max-satisfying.js133884205969986964 0
 127C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\min-version.js133884205970134762 0
 123C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\transformer-babel\node_modules\semver\ranges\outside.js133884205970434435 0
@@ -13680,6 +13693,7 @@
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\src\loadDotEnv.js133884205973303051 0
 86C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\src\Parcel.js133884205973687612 0
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\src\ParcelConfig.js133884205973797436 0
+157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.319df5b1.js133886091263430549 0
 99C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\src\ParcelConfig.schema.js133884205973831744 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\src\projectPath.js133884205974024269 0
 94C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@parcel\core\src\resolveOptions.js133884205974273279 0
@@ -13804,7 +13818,7 @@
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.scandir\out\adapters133884205969052337 1
 92C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.scandir\out\index.js133884205967308855 0
 97C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.scandir\out\settings.d.ts133884205969643955 0
-145C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects133886088571820463 1
+145C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects133886091260634314 1
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.scandir\out\settings.js133884205968055609 0
 89C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.scandir\out\utils133884205969522951 1
 95C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@nodelib\fs.scandir\out\utils\fs.js133884205966867376 0
@@ -13840,26 +13854,34 @@
 85C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@babel\code-frame\LICENSE133884205964345444 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@babel\code-frame\package.json133884205966323578 0
 90C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\@babel\code-frame\lib\index.js133884205965261328 0
-137C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git133886088576018880 1
-164C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card1408px-tab@2x.6e21db3d.webp133886088575056278 0
-163C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card670px-mob@2x.ebe813fe.webp133886088575056278 0
-154C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.98fb8336.js133886088575024637 0
-151C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\icons.21bad73c.svg133886088575024637 0
-151C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\icons.7bd9dd61.svg133886088575024637 0
-161C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\Inter-Regular.65133734.woff2133886088575073575 0
-161C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.31b563d9.js.map133886088575119754 0
-161C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.961078c9.js.map133886088575104631 0
-158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.c2b0d9e4.css133886088575040011 0
-144C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\config133886088576000330 0
+137C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git133886091264392235 1
+164C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card1408px-tab@2x.a5f6ccb9.webp133886091263414666 0
+163C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\card670px-mob@2x.5f55601e.webp133886091263414666 0
+158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.0c94c45e.js.map133886091263383284 0
+158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.bce89d45.js.map133886091263383284 0
+159C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\favorites.db80aa57.css.map133886091263399271 0
+160C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\Inter-Medium.85148483.woff2133886091263430549 0
+162C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\Inter-SemiBold.09471040.woff2133886091263414666 0
+158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.58cf8f51.css133886091263399271 0
+158C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\tasty-treats.af0def3d.css133886091263399271 0
+144C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\config133886091264366599 0
 149C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\description133884211636196277 0
-147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\ORIG_HEAD133886088573592662 0
+147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\ORIG_HEAD133886091262168262 0
 149C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\packed-refs133884211644760913 0
-157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\heads\gh-pages133886088267993677 0
+157C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\refs\heads\gh-pages133886090811768971 0
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\01133886090809546808 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\06133886088267983615 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\0e133886088265460780 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\20133886090809356524 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\23133886090809977769 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\2b133886088264937961 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\31133886090809757967 1
+76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.a7d0f22c.js133886121374313281 0
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\3b133886088266650523 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\40133886090810246765 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\45133884244845710565 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\50133886090811631252 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\54133886090810349369 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\5a133884211655939071 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\5d133886088265953314 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\66133886088266499309 1
@@ -13868,19 +13890,22 @@
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\84133886088265830069 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\8b133886088265895794 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\97133884211654859839 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\99133886090810571113 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\a4133884244845252090 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\a6133886088265321480 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\af133886088265646621 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\bd133886088267863785 1
-148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d0133886088266305862 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d0133886090809490571 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d1133886088265523821 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\e1133886090809591092 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\e7133884211654916911 1
-148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ee133884211654512576 1
+148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ee133886090809637489 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\f4133886088266712900 1
 148C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\fb133886088265024963 1
 150C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\info133884211636500762 1
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\f7\166d6f414b6e65729ed862896eadb3554bddc4133886088575495309 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\f4\c2d763085da5d1bddbd3e1c6c46fa49bd805b2133886088575526129 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\ee\731a69346856f1d09fe46f0204a604873a1991133886091263774882 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\e7\7473e84d959ff64c5214746338531e9883971d133884211654870245 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\df\14e1ac25db6177fb8640988065d0d884fdd63a133886088575454202 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\d0\369c5adecec94aba6217e095695b3b6a97c9fe133886088575454202 0
@@ -13888,19 +13913,28 @@
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\c8\6fcc8e0f6fc45c287ecdf5f5ef2ca3ce281888133884244845563317 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\c8\e2e52a5ffd30c6877b2e0bf5c446adefa8a7c8133884244846785492 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\bd\a9cb7fa1c0179aa967d55c14830a084891220d133886088267833020 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\a6\c0080a2db04f90bead61c96ea2c46df431be66133886088575390297 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\b1\d3246b55453cced8a805fe3799eac58468844b133886090811691980 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\a6\c0080a2db04f90bead61c96ea2c46df431be66133886091263718935 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\a3\9f5baee2c50ad1bc0d597eda6843f35cbc6c72133884244845152619 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\99\d4117e114f67adad5c7bb214a2abcf488795f8133886091263878603 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\90\e52a607f0ca3535811b48406bc162a97be160d133886091263836455 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\8b\038bf3ec61d6442a559d410de0d4fc7d579d75133886088575431126 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\6b\e5857b3fb8031ae3a73b2d7c21ba4532d73b8e133884244845445204 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\69\f8b58c5b1cab9ddf8a009f860364ddf19544fa133886091263774882 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\61\e512ba789f977fdf16e9e78ed5884756b55e44133886088575421070 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\5b\9f74b62e04679f0b612c8ffdf72ec7b8b61512133886088575431126 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\5a\8a54e301dfee5d96c13aabd66f32829363d6fd133884211655887436 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\4e\e6586678ed1ad3416e79d5aecc3bbc3660989e133884211654569576 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\54\fed3f48a5a609e14f4f96c0a1ae89ca3343382133886091263851953 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\4e\e6586678ed1ad3416e79d5aecc3bbc3660989e133886091263774882 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\49\fdefe56c25e50866db411c5ac4432f9046b48c133886088575421070 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\3b\c5c1171f0b66412d2ca21585fcabc7860d3694133886088575526129 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\0e\532d774053a86a42d810501b104e678953ac76133886088575405675 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\23\8aa50f1565cb1a6864d1aabeb75482a5d1cef3133886091263805621 0
+77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.9f367d21.css133886119756705286 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\17\95033c6c43e5ac9b56f8ed360ef3c833b969c1133886091263821018 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\0e\532d774053a86a42d810501b104e678953ac76133886091263742201 0
 187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\09\fbeaae7b9e84fad462a2743292f8c95099f368133886088575536197 0
-187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\00\fa468064036fc8cae0cf749d889e3204db1570133884211654771869 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\01\5834f989f20a2d0707103c3f8a441abdba2d85133886091263764835 0
+187C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\objects\00\fa468064036fc8cae0cf749d889e3204db1570133886091263821018 0
 147C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs133884211672000148 1
 153C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs\heads133884211644885703 1
 155C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.cache\gh-pages\https!github.com!GoIT-JS-Project-Team-A!tasty-treats.git\.git\logs\refs\remotes133884211672000148 1
@@ -13937,12 +13971,11 @@
 69C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\shjs133884211109930517 0
 87C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\update-browserslist-db133884206000251979 0
 91C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\node_modules\.bin\update-browserslist-db.cmd133884206000257230 0
-74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.7fb486d3.css133886087628114373 0
-78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.7fb486d3.css.map133886087628177615 0
-77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.a581e19e.js.map133886087627598688 0
-70C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\icons.21bad73c.svg133886087628311301 0
-76C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.961078c9.js133886087627660589 0
-77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.9f367d21.css133886087628114373 0
-81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.9f367d21.css.map133886087628192956 0
-77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.c2b0d9e4.css133886087628031292 0
-81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.c2b0d9e4.css.map133886087628085054 0
+74C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.7fb486d3.css133886119756678965 0
+78C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.7fb486d3.css.map133886119756736417 0
+77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\favorites.a581e19e.js.map133886119756340195 0
+70C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\icons.21bad73c.svg133886119756986369 0
+81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.9f367d21.css.map133886119756772906 0
+80C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.a7d0f22c.js.map133886121374354733 0
+77C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.c2b0d9e4.css133886119756705286 0
+81C:\Users\PC\Desktop\GoIT\Projects\tasty-treats\dist\tasty-treats.c2b0d9e4.css.map133886119756825009 0

@@ -1,9 +1,9 @@
-import { fetchRecipes, patchRating } from '../service/API';
+import { fetchRecipes, patchRating } from '../services/API';
 import { measureRating } from '../renders/renders';
 import { ratingScale } from '../renders/renders';
 import SmoothScrollbar from 'smooth-scrollbar';
 import Notiflix from 'notiflix';
-import { patchRating } from '../service/API';
+import { patchRating } from '../services/API';
 
 // DOM öğelerinin tanımlanması - DOM elements declaration
 closeModalBtn = document.querySelector('.close-modal');
@@ -157,7 +157,7 @@ function CloseOnBtnClick(e) { // ESC tuşuna basıldığında pencerenin kapanma
 
 async function genereteRecipe(id) {
   try {
-    const recipe = await findRecipes(id);
+    const recipe = await fetchRecipes(id);
 
     const { title, description, preview, rating, _id, category } = recipe;
 
