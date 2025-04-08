@@ -160,15 +160,15 @@
       });
     }
   }
-})({"aAlOD":[function(require,module,exports,__globalThis) {
+})({"l6ijA":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
 var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
-var HMR_ENV_HASH = "d6ea1d42532a7575";
+var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
-module.bundle.HMR_BUNDLE_ID = "74ba0c4da5e00a46";
+module.bundle.HMR_BUNDLE_ID = "9b752932a581e19e";
 "use strict";
 /* global HMR_HOST, HMR_PORT, HMR_SERVER_PORT, HMR_ENV_HASH, HMR_SECURE, HMR_USE_SSE, chrome, browser, __parcel__import__, __parcel__importScripts__, ServiceWorkerGlobalScope */ /*::
 import type {
@@ -666,8 +666,12 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
     }
 }
 
-},{}],"g43aX":[function(require,module,exports,__globalThis) {
+},{}],"3v0Q7":[function(require,module,exports,__globalThis) {
+var _mobileMenu = require("./js/utilities/mobile-menu");
+var _modalRecipes = require("./js/utilities/modal-recipes");
+var _orderNowModal = require("./js/utilities/order-now-modal");
+var _favList = require("./js/utilities/fav-list");
 
-},{}]},["aAlOD","g43aX"], "g43aX", "parcelRequire78be", {})
+},{"./js/utilities/mobile-menu":"eeubU","./js/utilities/modal-recipes":"9AkT3","./js/utilities/order-now-modal":"82STE","./js/utilities/fav-list":"h96Oj"}]},["l6ijA","3v0Q7"], "3v0Q7", "parcelRequire78be", {})
 
-//# sourceMappingURL=favorites.a5e00a46.js.map
+//# sourceMappingURL=favorites.a581e19e.js.map
