@@ -133,3 +133,22 @@ function CloseRateModal() {
   rateEmail.addEventListener('input', checkRateInputs); 
   rateForm.addEventListener('submit', SubmitRate); 
 }
+
+// Açılır pencereyi kapatma - Close modal
+function CloseModal() {
+  removeListeners();
+  restoreForm();
+  backdropModal.classList.add('is-hidden-modal');
+  mainModalRecipes.classList.add('is-hidden-modal');
+  rateModal.classList.add('is-hidden-modal');
+  modalRecipes.innerHTML = '';
+  ToggleScroll();
+}
+
+function CloseOnClick({ currentTarget, target }) { // Tıklanıldığında pencerenin kapanması - Close on click
+  if (currentTarget === target) CloseModal();
+}
+
+function CloseOnBtnClick(e) { // ESC tuşuna basıldığında pencerenin kapanması - Close on ESC
+  if (e.key === 'Escape') CloseModal();
+}
