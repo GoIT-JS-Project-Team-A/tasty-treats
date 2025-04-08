@@ -166,7 +166,7 @@
   }
 }
 
-/* spinner */
+/* Spinner */
 
 .spinner-icon {
   display: inline-block;
@@ -198,4 +198,69 @@
   100% {
     transform: rotate(360deg);
   }
+}
+
+/* Form Temizleme Butonu - Clear Form Button */
+
+.svg-icon-clean-button {
+  color: var(--accent-color);
+}
+
+.clear-button {
+  display: flex;
+  align-items: center;
+  border: none;
+  background: none;
+  margin-left: auto;
+  color: var(--primary-color-05);
+  font-size: 12px;
+  margin-bottom: 14px;
+}
+
+.clear-button:hover {
+  text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.svg-button-click {
+  margin-right: 4px;
+}
+
+@media screen and (max-width: 767px) {
+  .input-section {
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .search-res-container {
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #spinner {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-25%, -50%);
+
+    z-index: 1;
+  }
+}
+
+.search-icon.active {
+  fill: var(--accent-color);
+}
+
+.cancel-button-input {
+  position: absolute;
+  right: 18px;
+  cursor: pointer;
+  height: 20px;
+  display: none;
+}
+
+option {
+  background-color: var(--option-color);
 }
