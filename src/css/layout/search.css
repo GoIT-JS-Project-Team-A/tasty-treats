@@ -16,3 +16,9 @@
   margin-bottom: 8px;
   display: block;
 }
+
+.search-input-wrapper { /* Search input divi */
+  position: relative;
+  display: flex;
+  align-items: center;
+}
