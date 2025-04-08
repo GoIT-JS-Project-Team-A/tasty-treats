@@ -238,3 +238,17 @@ function ToggleScroll() { // İçerik gizleme - Hide content
   const body = document.querySelector('body');
   body.classList.toggle('overflow-hidden');
 }
+
+// Kaynak kontrol - Source control
+function checkSrc(url, description) {
+  if (url.endsWith('.jpg')) {
+    return `<img class="modal-img" src="${url}" alt="${description}">`;
+  } else {
+    return `<iframe
+      class="recipe-frame"
+      src="${url}"
+      frameborder="0"
+      alt="${description}"
+    ></iframe>`;
+  }
+}
