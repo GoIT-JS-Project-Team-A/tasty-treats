@@ -49,6 +49,7 @@ export function ratingScale(rating) {
           </ul>`;
 }
 
+// Tariflerin listelenmesi - Recipes listing
 function renderItem(title, description, preview, rating, id, category) { 
     const recipeInfo = {
     title: title,
@@ -58,7 +59,7 @@ function renderItem(title, description, preview, rating, id, category) {
     id: id,
     category: category,
     };
-    
+        
         const fixRating = rating > 5 ? Number(5).toFixed(1) : rating.toFixed(1);
         return `<div data-category='${category}' class='recipe-item animate__animated animate__fadeIn' 
                 style='
