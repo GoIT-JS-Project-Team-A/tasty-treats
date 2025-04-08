@@ -1,3 +1,5 @@
+<!-- Favoriler Sayfası / Favourites Page -->
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,9 +10,31 @@
       rel="stylesheet"
       href="../node_modules/modern-normalize/modern-normalize.css"
     />
-    <link rel="icon" href="./img/favicon.png" type="image/x-icon" />
+    <link rel="icon" href="img/favicon.png" type="image/x-icon" />
     <link rel="stylesheet" href="./css/main.css" />
   </head>
 
-  <body></body>
+  <body>
+    <include src="./partials/header-favorite.html"></include>
+    <!-- Favoriler Header / Favourites Header -->
+
+    <main>
+      <include src="./partials/fav-hero.html"></include>
+      <!-- Favoriler Hero Bölümü / Favourites Hero Section -->
+      <include src="./partials/fav-page_list.html"></include>
+      <!-- Favoriler İçerik / Favourites Content -->
+    </main>
+
+    <div class="backdrop-recipes is-hidden-modal">
+      <!-- Favoriler Sayfası Popups / Favourites Pages Modal Windows -->
+      <include src="./partials/modal-recipes.html"></include>
+      <include src="./partials/rating.html"></include>
+    </div>
+
+    <include src="./partials/order-now-modal.html"></include>
+    <!-- Favoriler Sayfası Sipariş Popup / Favourites Page Order Modal -->
+
+    <script type="module" src="./favorites.js"></script>
+    <script src="./js/utils/switcher.js"></script>
+  </body>
 </html>
