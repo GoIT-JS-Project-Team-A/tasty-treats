@@ -49,7 +49,7 @@ export function OpenModal(currentBtn) {
   saveRecipeBtn.addEventListener('click', AddToFav);
 }
 
-3// Puanlama penceresinin açılışı - Opening rating modal
+// Puanlama penceresinin açılışı - Opening rating modal
 function OpenRateModal() {
   mainModalRecipes.classList.add('is-hidden-modal');
   rateModal.classList.remove('is-hidden-modal');
@@ -74,4 +74,38 @@ function GiveRate(e) {
     rateVal.textContent = rate.toFixed(1);
     rateRage.value = rate;
   }
+}
+
+// E-posta giriş kontrolü - Email input control
+function isValidEmail(email) { 
+  const regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  return regex.test(email);
+}
+function checkRateInputs() {
+  if (!isValidEmail(rateEmail.value)) {
+    rateEmail.style.borderColor = '#b83245';
+    sendRateBtn.disabled = true;
+  } else {
+    rateEmail.style.borderColor = '#9bb537';
+    sendRateBtn.disabled = false;
+  }
+}
+
+// Puanlama gönderme - Submit rating
+async function SubmitRate(e) {
+  e.preventDefault();
+  const data = {
+    rate: Number(e.target.elements['raiting-star'].value),
+    email: e.target.elements['email'].value,
+  };
+  const id = rateForm.dataset.id;
+
+  try {
+    await patchRating(id, data);
+    Notiflix.Notify.success('Tarifimizi beğendiğiniz için teşekkür ederim. \nThank you for appreciating the recipe.');
+  } catch (error) {
+    Notiflix.Notify.failure(error.response.data.message || 'Puanlama sırasında hata! \nRating has not been submited...');
+  }
+
+  CloseModal();
 }
