@@ -1,4 +1,4 @@
-import { getPopularRecipes } from "../service/API";
+import { fetchPopularRecipes } from "../services/API";
 import { OpenModal } from "../utilities/modal-recipes";
 
 // Tariflerin render edilmesi - Recipes rendering
