@@ -50,18 +50,18 @@ export function ratingScale(rating) {
 }
 
 // Tariflerin listelenmesi - Recipes listing
-function renderItem(title, description, preview, rating, id, category) { 
-    const recipeInfo = {
+function renderItem(title, description, preview, rating, id, category) {
+  const infoRecipe = {
     title: title,
     description: description.replace("'", ''),
     preview: preview,
     rating: rating,
     id: id,
     category: category,
-    };
-        
-        const fixRating = rating > 5 ? Number(5).toFixed(1) : rating.toFixed(1);
-        return `<div data-category='${category}' class='recipe-item animate__animated animate__fadeIn' 
+  };
+
+  const fixRating = rating > 5 ? Number(5).toFixed(1) : rating.toFixed(1);
+  return `<div data-category='${category}' class='recipe-item animate__animated animate__fadeIn' 
                 style='
                       background: linear-gradient(0deg, rgba(5, 5, 5, 0.6),
                       rgba(5, 5, 5, 0)),
@@ -72,8 +72,8 @@ function renderItem(title, description, preview, rating, id, category) {
                   <div class='inter-box'>
 
                     <button type='button' 
-                    class='favorite-btn ${checkOnFavs(id)}'
-                    data-info='${JSON.stringify(recipeInfo)}'
+                    class='favorite-btn ${checkOnFavor(id)}'
+                    data-info='${JSON.stringify(infoRecipe)}'
                     name='favorite'>
                       <svg class='heart-icon' width='22' height='22'>
                           <use href='${svg}#heart'></use>

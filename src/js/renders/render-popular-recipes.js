@@ -1,5 +1,5 @@
-import { getPopularRecipes } from "../service/API";
-import { OpenModal } from "../utils/modal-recipes";
+import { getPopularRecipes } from "../services/API";
+import { OpenModal } from "../utilities/modal-recipes";
 
 // Tariflerin render edilmesi - Recipes rendering
 export const popularRecipes = document.querySelector('.popular-recipes-list');
@@ -14,6 +14,7 @@ async function renderPopularRecipes() {
     console.error('Error while rendering popular recipes:', error);
   }
 }
+
  // Tariflerin oluşturma - Recipes creation
 function createPopularRecipesList(data) {
   const markup = data.map((recipe) => {
