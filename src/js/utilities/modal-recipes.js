@@ -252,3 +252,25 @@ function checkSrc(url, description) {
     ></iframe>`;
   }
 }
+
+// Favorilere ekleme - Add to favorites
+export function AddToFav({ target }) {
+  const storage = localStorage.getItem('favorites');
+  const data = JSON.parse(storage);
+  const currentRec = JSON.parse(modalRecipes.dataset.info);
+  if (storage) {
+    if (data.find(el => el.id === currentRec.id)) {
+      localStorage.setItem(
+        'favorites',
+        JSON.stringify([...data.filter(el => el.id !== currentRec.id)])
+      );
+      target.textContent = 'Add to favorite';
+    } else {
+      localStorage.setItem('favorites', JSON.stringify([...data, currentRec]));
+      target.textContent = 'Remove favorite';
+    }
+  } else {
+    localStorage.setItem('favorites', JSON.stringify([currentRec]));
+    target.textContent = 'Remove favorite';
+  }
+}
