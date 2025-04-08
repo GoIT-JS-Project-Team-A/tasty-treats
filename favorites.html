@@ -1,1 +1,84 @@
-<!DOCTYPE html><html lang="en"><head><script type="importmap">{"imports":{"hfd23":"/tasty-treats/icons.c5b0f01c.svg"}}</script><script type="module" src="/tasty-treats/tasty-treats.319df5b1.js"></script><link rel="stylesheet" href="/tasty-treats/favorites.db80aa57.css"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>TastyTreats</title><link rel="stylesheet" href="/tasty-treats/tasty-treats.af0def3d.css"><link rel="icon" href="/tasty-treats/favicon.17628e0e.png" type="image/x-icon"><link rel="stylesheet" href="/tasty-treats/tasty-treats.b05837ca.css"></head><body>   <main>  <section> <div class="container fav_container"> <div class="hero_fav"></div> </div> </section>   <section> <h2 style="display:none">Favorites</h2> <div id="favorites-container" class="container"> <div class="favorite-categories"> <button class="all-btn button-fav onActive" name="all"> All categories </button> </div> <ul id="image-container" class="favorite-list"></ul> <div id="pagination" class="tui-pagination"></div> <div class="empty-storage is-hidden"> <svg class="cook-hat" width="68" height="58"> <use href="/tasty-treats/icons.c5b0f01c.svg#cook-hat" use></use> </svg> <p class="empty-storage-txt"> It appears that you haven't added any recipes to your favorites yet. To get started, you can add recipes that you like to your favorites for easier access in the future. </p> </div> </div> </section>  </main> <div class="backdrop-recipes is-hidden-modal">   <div id="scroll-rec" class="is-hidden-modal modal-recipes"> <div class="modal-recipes-js"></div> <button class="close-modal"> <svg class="close-modal-icon" width="20" height="20"> <use href="/tasty-treats/icons.c5b0f01c.svg#icon-x"></use> </svg> </button> <div class="scroll-box"></div> <button class="save-recipes-btn">Add to favorite</button> <button class="give-rating-btn">Give a rating</button> </div>  </div>   <script type="module" src="/tasty-treats/favorites.bce89d45.js"></script> <script src="/tasty-treats/favorites.0c94c45e.js"></script> </body></html>
+<!-- Favoriler Sayfası / Favourites Page -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head><script type="importmap">{"imports":{"4WWky":"/icons.7bd9dd61.svg"}}</script><script type="module" src="/tasty-treats.a7d0f22c.js"></script><link rel="stylesheet" href="/favorites.7fb486d3.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TastyTreats</title>
+    <link rel="stylesheet" href="/tasty-treats.c2b0d9e4.css">
+    <link rel="icon" href="/favicon.8b2f57bf.png" type="image/x-icon">
+    <link rel="stylesheet" href="/tasty-treats.34df27b5.css">
+  </head>
+
+  <body>
+    <!-- Favoriler Sayfası Başlık / Favourites Page Header -->
+
+    <!-- Favoriler Header / Favourites Header -->
+
+    <main>
+      <!-- Favoriler Sayfası Hero / Favourites Page Hero -->
+
+<section>
+  <div class="fav_container container">
+    <div class="hero_fav"></div>
+  </div>
+</section>
+
+      <!-- Favoriler Hero Bölümü / Favourites Hero Section -->
+      <!-- Favoriler Sayfası İçeriği / Favourites Page Content -->
+
+<section>
+  <h2 style="display: none">Favorites</h2>
+  <div id="favorites-container" class="container">
+    <div class="favorite-categories">
+      <button class="button-fav all-btn onActive" name="all">
+        All categories
+      </button>
+    </div>
+    <ul id="image-container" class="favorite-list"></ul>
+    <div id="pagination" class="tui-pagination"></div>
+    <div class="empty-storage is-hidden">
+      <svg class="cook-hat" width="68" height="58">
+        <use href="/icons.21bad73c.svg#cook-hat" use=""></use>
+      </svg>
+      <p class="empty-storage-txt">
+        It appears that you haven't added any recipes to your favorites yet. To
+        get started, you can add recipes that you like to your favorites for
+        easier access in the future.
+      </p>
+    </div>
+  </div>
+</section>
+
+      <!-- Favoriler İçerik / Favourites Content -->
+    </main>
+
+    <div class="backdrop-recipes is-hidden-modal">
+      <!-- Favoriler Sayfası Popups / Favourites Pages Modal Windows -->
+      <!-- Tarif Detayları Popup / Recipe Details Modal -->
+
+<div id="scroll-rec" class="modal-recipes is-hidden-modal">
+  <div class="modal-recipes-js"></div>
+  <button class="close-modal">
+    <svg class="close-modal-icon" width="20" height="20">
+      <use href="/icons.21bad73c.svg#icon-x"></use>
+    </svg>
+  </button>
+  <div class="scroll-box"></div>
+  <button class="save-recipes-btn">Add to favorite</button>
+  <button class="give-rating-btn">Give a rating</button>
+</div>
+
+      <!-- Puanlama Popup / Rating Modal -->
+
+    </div>
+
+    <!-- Sipariş Popup / Order Now Modal -->
+
+    <!-- Favoriler Sayfası Sipariş Popup / Favourites Page Order Modal -->
+
+    <script type="module" src="/favorites.a581e19e.js"></script>
+    <script src="/favorites.98fb8336.js"></script>
+  </body>
+</html>
