@@ -41,3 +41,11 @@ function startPagination(page, perPage, totalPages, callback) {
                 '</a>',
         },
     };
+    const pagination = new Pagination('pagination', options);
+
+    pagination.on('afterMove', ({ page }) => { // Sayfa değiştiğinde
+        callback(page);
+    });
+}
+
+export default startPagination;
