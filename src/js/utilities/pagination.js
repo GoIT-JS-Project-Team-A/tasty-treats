@@ -12,6 +12,7 @@ function resizeVisPage() { // Çöznürlüğe göre bölüm sayısı
         return 3;
     }
 }
+
 // Sayfalama - Pagination
 function startPagination(page, perPage, totalPages, callback) {
     const options = {
@@ -41,6 +42,7 @@ function startPagination(page, perPage, totalPages, callback) {
                 '</a>',
         },
     };
+    
     const pagination = new Pagination('pagination', options);
 
     pagination.on('afterMove', ({ page }) => { // Sayfa değiştiğinde
