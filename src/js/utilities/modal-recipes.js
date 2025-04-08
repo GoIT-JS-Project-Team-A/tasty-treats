@@ -21,3 +21,30 @@ rateRage = document.querySelector('.rating-range-input');
 rateEmail = document.querySelector('.rating-email-input');
 rateForm = document.querySelector('.modal-rating-form');
 sendRateBtn = document.querySelector('.modal-rating-send-btn');
+
+// Açılır pencere - Modal
+export function OpenModal(currentBtn) { 
+  closeModalBtn.addEventListener('click', CloseModal);
+  backdropModal.addEventListener('click', CloseOnClick);
+  giveRatingBtn.addEventListener('click', OpenRateModal);
+  window.addEventListener('keydown', CloseOnBtnClick);
+
+  backdropModal.classList.remove('is-hidden-modal');
+  mainModalRecipes.classList.remove('is-hidden-modal');
+  rateForm.dataset.id = currentBtn.dataset.id;
+  genereteRecipe(currentBtn.dataset.id);
+  ToggleScroll();
+
+  const storage = localStorage.getItem('favorites');
+  const data = JSON.parse(storage);
+
+  if (storage) {
+    if (data.find(el => el.id === currentBtn.dataset.id)) {
+      saveRecipeBtn.textContent = 'Remove favorite';
+    } else {
+      saveRecipeBtn.textContent = 'Add to favorite';
+    }
+  }
+
+  saveRecipeBtn.addEventListener('click', AddToFav);
+}
