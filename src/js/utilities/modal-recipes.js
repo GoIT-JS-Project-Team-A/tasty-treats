@@ -53,13 +53,13 @@ export function OpenModal(currentBtn) {
 
 // Puanlama penceresinin açılışı - Opening rating modal
 function OpenRateModal() {
-  mainModalRecipes.classList.add('is-hidden-modal');
-  rateModal.classList.remove('is-hidden-modal');
+  refs.mainModalRecipes.classList.add('is-hidden-modal');
+  refs.rateModal.classList.remove('is-hidden-modal');
 
-  closeRate.addEventListener('click', CloseRateModal); 
-  modalRateList.addEventListener('click', GiveRate); 
-  rateEmail.addEventListener('input', checkRateInputs); 
-  rateForm.addEventListener('submit', SubmitRate); 
+  refs.closeRate.addEventListener('click', CloseRateModal);
+  refs.modalRateList.addEventListener('click', GiveRate);
+  refs.rateEmail.addEventListener('input', checkRateInputs);
+  refs.rateForm.addEventListener('submit', SubmitRate);
 }
 
 // Puanlama - Rating
