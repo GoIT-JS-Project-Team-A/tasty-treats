@@ -1,6 +1,7 @@
 import renderItem, { ratingScale } from '../renders/renders';
 import startPagination from './pagination';
 import { OpenModal } from './modal-recipes';
+import Notiflix from 'notiflix';
 
 const refs = {
   favoriteCategoriesList: document.querySelector('.favorite-categories'),
