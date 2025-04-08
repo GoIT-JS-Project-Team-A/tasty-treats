@@ -70,6 +70,11 @@
     width: 335px;
     margin: 0 auto;
   }
+
+  .image-container {
+    display: block;
+    margin-bottom: 40px;
+  }
 }
 
 /* Tablet Responsive Tasarım - Tablet responsive design */
@@ -78,6 +83,11 @@
     width: 496px;
     min-height: 985px;
   }
+  
+  .image-container {
+    min-height: 844px;
+    margin-bottom: 64px;
+  }
 }
 
 /* Desktop Responsive Tasarım - Desktop responsive design */
@@ -85,5 +95,10 @@
   .search-res-container {
     width: 782px;
     min-height: 728px;
+  }
+  
+  .image-container {
+    min-height: 908px;
+    row-gap: 32px;
   }
 }
