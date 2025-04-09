@@ -1,77 +1,268 @@
-.filter-container {
-  width: 780px;
-  height: 74px;
-  display: flex;
-  flex-direction: row;
-  gap: 16px;
-}
-.filter-container label {
-  display: flex;
-  flex-direction: column; /* Label içinde dikey hizalama */
-  align-items: flex-start; /* Label içeriğini sola hizala */
-  color: rgba(5, 5, 5, 0.5);
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.285;
-  letter-spacing: 0%;
-}
-.filter-container input,
-.filter-container select {
-  box-sizing: border-box;
-  width: 100%;
-  margin-top: 8px; /* Label ile alan arasında boşluk */
-  padding-top: 14px;
-  padding-bottom: 14px;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.25;
-  color: rgba(5, 5, 5, 0.5);
-  border: 1px solid rgba(5, 5, 5, 0.2);
-  border-radius: 15px;
-}
-.filter-container input {
-  padding-left: 36px;
+/* Arama bölümü stiller - Search styles */
+
+/* Mobile Responsive Tasarım - Mobile responsive design */
+.search-wrapper { /* Search ana div */
+  position: relative;
+  display: inline-block;
 }
 
-#timeSelect,
-#areaSelect,
-#ingredientSelect {
-  padding-left: 18px;
+.search-label { /* Search etiketi */
+  color: var(--primary-color-05);
+  font-size: 14px;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 18px;
+  word-wrap: break-word;
+  margin-bottom: 8px;
+  display: block;
 }
-.search-div {
-  width: 278px;
-  height: 74px;
-}
-.search-label {
+
+.search-input-wrapper { /* Search input divi */
   position: relative;
   display: flex;
   align-items: center;
 }
-.search-icon {
-  margin-right: 12px; /* İkon ve metin arasında 12px boşluk */
-  position: absolute; /* İkonun yerini belirleme */
-  left: 10px; /* Sol taraftan 10px uzaklık */
-  top: 49px; /* Yüksekliği ortalama (?)*/
-  transform: translateY(-50%); /* Dikey ortalama sağlama */
+
+.search-icon { /* Search icon */
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  transform: translateY(-50%);
+  color: var(--primary-color-05);
 }
-/* input[type='text']:focus + .search-icon {
-  fill: #9bb537;
-} */
-.filter-close-icon {
-  position: absolute; /* İkonun yerini belirleme */
-  right: 18px; /* Sağ taraftan 18px uzaklık */
-  top: 49px; /* Yüksekliği ortalama (?)*/
-  transform: translateY(-50%); /* Dikey ortalama sağlama */
+
+.search-icon img { /* Search icon resmi */
+  width: 18px;
+  height: 18px;
 }
-.time-div {
-  width: 125px;
-  height: 74px;
+
+.search-input,
+.list-time.list-filter,
+.list-area.list-filter,
+.list-ingred.list-filter { /* Search input ve filtre listeleri ortak stiller */
+  color: var(--primary-color-02);
+  background-color: inherit;
+  border-color: var(--primary-color-02);
 }
-.area-div {
-  width: 141px;
-  height: 74px;
+
+.search-input { /* Search inputu */
+  width: 295px;
+  height: auto;
+  padding: 14px 18px 14px 48px;
+  font-size: 16px;
+  font-weight: 500;
+  color: var(--primary-color-02);
+  border-radius: 15px;
+  border-width: 1px;
+  border-style: solid;
+  outline: none;
+  box-sizing: border-box;
+  border-color: var(--primary-color-02);
+  background-color: inherit;
 }
-.ingredient-div {
+
+.search-section { /* Search ana bölüm */
+  margin-bottom: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.list-filter { /* Filtre listeleri */
+  height: 46px;
+  color: rgba(5, 5, 5, 0.5);
+  padding-left: 18px;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 15px;
+  border: 1px solid rgba(5, 5, 5, 0.2);
+  outline: none;
+  box-sizing: border-box;
+}
+
+.list-time { /* Tarif süresi filtre listesi */
+  width: 160px;
+}
+
+.list-area { /* Tarif kökeni filtre listesi */
+  width: 161px;
+}
+
+.list-ingred { /* Malzeme filtre listesi */
   width: 188px;
-  height: 74px;
+}
+
+.select select { /* Selectbox */
+  color: #fff;
+}
+
+.input-section { /* Input bölümü */
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+@media screen and (max-width: 767px) {
+  .search-input {
+    width: 335px;
+  }
+  
+  .search-res-container {
+    width: 335px;
+    margin: 0 auto;
+  }
+
+  .image-container {
+    display: block;
+    margin-bottom: 40px;
+  }
+}
+
+/* Tablet Responsive Tasarım - Tablet responsive design */
+@media screen and (min-width: 768px) {
+  .search-res-container {
+    width: 496px;
+    min-height: 985px;
+  }
+  
+  .image-container {
+    min-height: 844px;
+    margin-bottom: 64px;
+  }
+  
+  .search-section {
+    gap: 18px;
+  }
+
+  .list-time {
+    width: 125px;
+  }
+
+  .list-area {
+    width: 141px;
+  }
+}
+
+/* Desktop Responsive Tasarım - Desktop responsive design */
+@media screen and (min-width: 1280px) {
+  .search-res-container {
+    width: 782px;
+    min-height: 728px;
+  }
+  
+  .image-container {
+    min-height: 908px;
+    row-gap: 32px;
+  }
+  
+  .search-section {
+    gap: 16px;
+  }
+
+  .search-input {
+    width: 278px;
+  }
+}
+
+/* Spinner */
+
+.spinner-icon {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 4px solid #f3f3f3;
+  border-top: 4px solid var(--accent-color);
+  border-radius: 50%;
+  animation: spin 3s linear infinite;
+  align-self: flex-end;
+}
+
+.search-section {
+  position: relative;
+}
+
+.search-spinner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Form Temizleme Butonu - Clear Form Button */
+
+.svg-icon-clean-button {
+  color: var(--accent-color);
+}
+
+.clear-button {
+  display: flex;
+  align-items: center;
+  border: none;
+  background: none;
+  margin-left: auto;
+  color: var(--primary-color-05);
+  font-size: 12px;
+  margin-bottom: 14px;
+  transition: color 500ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.clear-button:hover {
+  text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  color: var(--accent-color);
+}
+
+.svg-button-click {
+  margin-right: 4px;
+}
+
+@media screen and (max-width: 767px) {
+  .input-section {
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .search-res-container {
+    position: relative;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  #spinner {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-25%, -50%);
+
+    z-index: 1;
+  }
+}
+
+.search-icon.active {
+  fill: var(--accent-color);
+}
+
+.cancel-button-input {
+  position: absolute;
+  right: 18px;
+  cursor: pointer;
+  height: 20px;
+  display: none;
+}
+
+option {
+  background-color: var(--option-color);
 }

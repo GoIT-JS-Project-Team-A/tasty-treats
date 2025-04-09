@@ -15,20 +15,21 @@
 
   <body>
     <!-- Header & Hero -->
-    <include src="./partials/header.html"></include>
-    <include src="./partials/hero.html"></include>
+    <load src="./partials/header.html" />
+    <load src="./partials/hero.html" />
 
-    <!-- Main Contents -->
-    <div class="main-content-wrapper container">
-      <include src="./partials/all-categories.html"></include>
-      <include src="./partials/popular-recipes.html"></include>
-      <include src="./partials/saerch.html"></include>
-      <include src="./partials/order-now-modal.html"></include>
+    <!-- Ana İçerik / Main Contents -->
+    <div class="position-wrapper container">
+      <load src="./partials/all-categories.html" />
+      <load src="./partials/popular-recipes.html" />
+      <load src="./partials/search.html" />
+      <load src="./partials/order-now-modal.html" />
     </div>
 
-    <div class="recipes-modal is-hidden-modal">
-      <include src="./partials/modal-recipes.html"></include>
-      <include src="./partials/rating.html"></include>
+    <!-- Modals/Popups -->
+    <div class="backdrop-recipes is-hidden-modal">
+      <load src="./partials/modal-recipes.html" />
+      <load src="./partials/rating.html" />
     </div>
     <button id="scroll-button" class="scroll-button">&#9650;</button>
   </body>
