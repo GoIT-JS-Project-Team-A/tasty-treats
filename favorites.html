@@ -8,9 +8,9 @@
     <title>TastyTreats</title>
     <link rel="icon" href="/tasty-treats/assets/favicon-DZR_Fp9z.png" type="image/x-icon" />
     <script type="module" crossorigin src="/tasty-treats/assets/vendor-CCpN9amw.js"></script>
-    <script type="module" crossorigin src="/tasty-treats/assets/fav-list-DNdDppkh.js"></script>
+    <script type="module" crossorigin src="/tasty-treats/assets/fav-list-DtI1cRAn.js"></script>
     <link rel="stylesheet" crossorigin href="/tasty-treats/assets/vendor-DL4WBMpH.css">
-    <link rel="stylesheet" crossorigin href="/tasty-treats/assets/fav-list-C7YLP03P.css">
+    <link rel="stylesheet" crossorigin href="/tasty-treats/assets/fav-list-Dxok7Va7.css">
   </head>
 
   <body>
@@ -74,9 +74,166 @@
 
       <!-- Puanlama Popup / Rating Modal -->
 
+<div class="modal-rating is-hidden-modal backdrop-rating" data-modal>
+  <button class="modal-rating-close-btn close-rating-modal" data-modal-close>
+    <svg class="modal-rating-close-icon" width="24" hight="24">
+      <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-x"></use>
+    </svg>
+  </button>
+  <b class="modal-rating-title">Rating</b>
+  <div class="modal-rating-star-box">
+    <ul class="modal-rating-list">
+      <li class="modal-rating-star-item">
+        <button type="button" class="modal-rating-star-btn">
+          <svg class="modal-rating-star-icon" width="24" height="24">
+            <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#star"></use>
+          </svg>
+        </button>
+      </li>
+      <li class="modal-rating-star-item">
+        <button type="button" class="modal-rating-star-btn">
+          <svg class="modal-rating-star-icon" width="24" height="24">
+            <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#star"></use>
+          </svg>
+        </button>
+      </li>
+      <li class="modal-rating-star-item">
+        <button type="button" class="modal-rating-star-btn">
+          <svg class="modal-rating-star-icon" width="24" height="24">
+            <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#star"></use>
+          </svg>
+        </button>
+      </li>
+      <li class="modal-rating-star-item">
+        <button type="button" class="modal-rating-star-btn">
+          <svg class="modal-rating-star-icon" width="24" height="24">
+            <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#star"></use>
+          </svg>
+        </button>
+      </li>
+      <li class="modal-rating-star-item">
+        <button type="button" class="modal-rating-star-btn">
+          <svg class="modal-rating-star-icon" width="24" height="24">
+            <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#star"></use>
+          </svg>
+        </button>
+      </li>
+    </ul>
+    <form class="modal-rating-form">
+      <label class="modal-rating-formfield">
+        <span class="modal-rating-span">0.0</span>
+        <input
+          type="range"
+          name="raiting-star"
+          min="0"
+          max="5"
+          value="0"
+          class="rating-range-input"
+        />
+      </label>
+      <label class="modal-rating-formfield">
+        <input
+          type="text"
+          name="email"
+          placeholder="Enter email"
+          class="rating-email-input"
+        />
+      </label>
+      <button
+        class="modal-rating-send-btn"
+        type="submit"
+        name="send"
+        disabled="true"
+      >
+        Send
+      </button>
+    </form>
+  </div>
+</div>
+
     </div>
 
     <!-- Sipariş Popup / Order Now Modal -->
+
+<div class="backdrop-order">
+  <div id="modal-order" class="modal-order">
+    <button type="button" class="order-modal-close-btn">
+      <svg class="order-icon-close" width="20" height="20">
+        <use href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-x"></use>
+      </svg>
+    </button>
+    <div class="wrap-recipe">
+      <form action="#" class="modal-form-order" autocomplete="on">
+        <strong class="contact-modal-title">Order now</strong>
+
+        <span class="contact-field-wrapper">
+          <label class="input-box">
+            <input
+              type="text"
+              class="input-field input-field-name input-js"
+              name="name"
+              required
+              pattern="[A-Za-z]{1,32}"
+              placeholder="Your name"
+            />
+            <span class="order-input-label">Name</span>
+            <svg class="input-warning-icon" width="14" height="14">
+              <use class="error" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-error"></use>
+              <use class="correct" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-correct"></use>
+            </svg>
+          </label>
+
+          <label class="input-box">
+            <input
+              type="tel"
+              class="input-field input-field-tel input-js"
+              name="tel"
+              required
+              pattern="^\+380\d{9}$"
+              placeholder="Your telephone "
+            />
+            <span class="order-input-label">Phone number</span>
+            <svg class="input-warning-icon" width="14" height="14">
+              <use class="error" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-error"></use>
+              <use class="correct" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-correct"></use>
+            </svg>
+          </label>
+
+          <label class="input-box">
+            <input
+              type="email"
+              class="input-field input-field-tel input-js"
+              name="email"
+              required
+              pattern="[^@\s]+@[^@\s]+"
+              placeholder="Your email "
+            />
+            <span class="order-input-label">Email</span>
+            <svg class="input-warning-icon" width="14" height="14">
+              <use class="error" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-error"></use>
+              <use class="correct" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-correct"></use>
+            </svg>
+          </label>
+
+          <label class="input-box">
+            <textarea
+              class="input-field input-field-textarea input-js"
+              name="comment"
+              rows="4"
+            ></textarea>
+            <span class="order-input-label">Comment</span>
+            <svg class="input-warning-icon" width="14" height="14">
+              <use class="error" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-error"></use>
+              <use class="correct" href="/tasty-treats/assets/icons-BeXmI9hm.svg#icon-correct"></use>
+            </svg>
+          </label>
+        </span>
+
+        <button type="submit" class="order-btn" data-modal="2">Send</button>
+      </form>
+    </div>
+  </div>
+</div>
 
     <!-- Favoriler Sayfası Sipariş Popup / Favourites Page Order Modal -->
 
