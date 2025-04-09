@@ -208,7 +208,7 @@ export async function searchImagesAndDisplay(
       area,
       ingredient
     );
-    if (!results.length) throw new Error('No result');
+    if (!results.length) throw new Error('Sonuc bulunamadı / No result');
     const recipes = await [
       ...results.map(({ title, description, preview, rating, _id, category }) =>
         renderItem(title, description, preview, rating, _id, category)
@@ -230,7 +230,7 @@ export async function searchImagesAndDisplay(
     areaSelect.firstElementChild.setAttribute('selected', 'selected');
     ingredSelect.firstElementChild.setAttribute('selected', 'selected');
     paginationBox.style.display = 'none';
-    Notiflix.Notify.warning('No result for your request, please try again!');
+    Notiflix.Notify.warning('Aramanıza uygun sonuc bulunamadı, lütfen tekrar deneyiniz! / No result for your request, please try again!');
 
     query = '';
     time = '';

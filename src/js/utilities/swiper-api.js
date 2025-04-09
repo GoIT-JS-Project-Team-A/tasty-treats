@@ -20,7 +20,8 @@ const masterCookThirdSlideLastCard = document.querySelector(
 );
 const EVENTS_URL = 'https://tasty-treats-backend.p.goit.global/api/events';
 
-const events = async () => { // Ana sınıfları alır - Fetch main classes
+const events = async () => {
+  // Ana sınıfları alır - Fetch main classes
   try {
     const response = await axios.get(`${EVENTS_URL}`);
     const data = response.data;

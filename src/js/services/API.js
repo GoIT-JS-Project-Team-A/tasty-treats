@@ -15,7 +15,7 @@ export async function fetchCategories() { // Kategorileri alır - Fetch categori
     );
     return response.data;
   } catch (error) {
-    console.error('Помилка під час отримання категорій:', error);
+    console.error('Kategoriler alınırken hata oluştu / Error while fetching categories:', error);
     return [];
   }
 }

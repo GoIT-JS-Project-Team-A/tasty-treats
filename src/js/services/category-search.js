@@ -25,7 +25,7 @@ export async function searchOnTitle(searchQuery, page, time = "", area = "", ing
     const { data } = await axios.get(apiUrl);
     return data;
   } catch (error) {
-    throw new Error('An error occurred while fetching images.');
+    throw new Error('Resimler alınırken bir hata oluştu / An error occurred while fetching images.');
   }
 }
 
@@ -36,6 +36,6 @@ export async function searchOnCategory(searchQuery, page) { // Kategoriye göre 
     const { data } = await axios.get(apiUrl);
     return data;
   } catch (error) {
-    throw new Error('An error occurred while fetching images.');
+    throw new Error('Resimler alınırken bir hata oluştu / An error occurred while fetching images.');
   }
 }

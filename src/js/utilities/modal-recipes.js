@@ -103,9 +103,9 @@ async function SubmitRate(e) {
 
   try {
     await patchRating(id, data);
-    Notiflix.Notify.success('Thank you for appreciating the recipe.');
+    Notiflix.Notify.success('Değerlendirme için teşekkürler. / Thank you for appreciating the recipe.');
   } catch (error) {
-    Notiflix.Notify.failure(error.response.data.message || 'Rating has not been submited...');
+    Notiflix.Notify.failure(error.response.data.message || 'Değerlendirme başarısız... / Rating has not been submited...');
   }
 
   CloseModal();

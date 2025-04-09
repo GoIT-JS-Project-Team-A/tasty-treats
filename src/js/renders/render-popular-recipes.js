@@ -11,7 +11,7 @@ async function renderPopularRecipes() {
     const data = await getPopularRecipes();
     createPopularRecipesList(data);
   } catch (error) {
-    console.error('Error while rendering popular recipes:', error);
+    console.error(' Tariflerin oluşturulmasında hata oluştu / Error while rendering popular recipes:', error);
   }
 }
 
