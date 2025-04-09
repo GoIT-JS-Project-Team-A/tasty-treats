@@ -1,4 +1,6 @@
-/* General styles */
+/* Favoriler Sayfası İçerik Stilleri - Favourites Page Content Styles */
+
+/* Genel Stiller - General styles */
 .favorite-list {
   display: block;
   margin-top: 24px;
@@ -75,7 +77,7 @@
   list-style: none;
 }
 
-/* Responsive styles */
+/* Responsive Tasarım - Responsive Design */
 
 @media screen and (min-width: 768px) {
   .favorite-list {
@@ -158,9 +160,7 @@
     }
 }
 
-    
-
-/* Additional styles for hiding elements */
+/* Öğe gizleme - Hide item */
 .is-hidden {
   display: none;
 }
