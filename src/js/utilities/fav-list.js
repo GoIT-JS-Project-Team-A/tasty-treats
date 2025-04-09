@@ -3,7 +3,8 @@ import startPagination from './pagination';
 import { OpenModal } from './modal-recipes';
 import Notiflix from 'notiflix';
 
-const refs = { // DOM elemanlarının tanımlanması - DOM elements declaration
+const refs = {
+  // DOM elemanlarının tanımlanması - DOM elements declaration
   favoriteCategoriesList: document.querySelector('.favorite-categories'),
   favoriteRecipesList: document.querySelector('.favorite-list'),
   warning: document.querySelector('.empty-storage'),
@@ -13,12 +14,14 @@ const refs = { // DOM elemanlarının tanımlanması - DOM elements declaration
 
 let currentCategory = '';
 
-const calcPages = () => { // Çözünürlüğe göre sayfa sayısı - Page count by screen width
+const calcPages = () => {
+  // Çözünürlüğe göre sayfa sayısı - Page count by screen width
   const screenWidth = window.innerWidth;
   return screenWidth < 768 ? 9 : 12;
 };
 
-const groupObjects = (array, groupSize) => { // Tarifleri grupla - Group recipes
+const groupObjects = (array, groupSize) => {
+  // Tarifleri grupla - Group recipes
   const result = {};
   for (let i = 0; i < array.length; i += groupSize) {
     const groupName = Math.floor(i / groupSize) + 1;
@@ -27,14 +30,15 @@ const groupObjects = (array, groupSize) => { // Tarifleri grupla - Group recipes
   return result;
 };
 
-const onFavoritesReload = () => { // Favoriler sayfasının yenilenmesi - Favorites page reload
+const onFavoritesReload = () => {
+  // Favoriler sayfasının yenilenmesi - Favorites page reload
   const categoryMarkup = generateCategoryList();
   const allCatBtn = `<button class="button-fav all-btn" name="all">All categories</button>`;
 
   const data = JSON.parse(localStorage.getItem('favorites')) || [];
 
-  refs.favoriteRecipesList.innerHTML = '';
-  refs.favoriteCategoriesList.innerHTML = '';
+  // refs.favoriteRecipesList.innerHTML = '';
+  // refs.favoriteCategoriesList.innerHTML = '';
 
   if (data.length) {
     refs.favoriteCategoriesList.innerHTML = `${allCatBtn}${categoryMarkup}`;
@@ -45,7 +49,8 @@ const onFavoritesReload = () => { // Favoriler sayfasının yenilenmesi - Favori
   generateStorageList();
 };
 
-const generateStorageList = (pageSet = 1) => { // Favoriler sayfasının oluşturulması - Favorites page creation
+const generateStorageList = (pageSet = 1) => {
+  // Favoriler sayfasının oluşturulması - Favorites page creation
   const storage = localStorage.getItem('favorites');
   const data = JSON.parse(storage) || [];
 
@@ -67,11 +72,9 @@ const generateStorageList = (pageSet = 1) => { // Favoriler sayfasının oluştu
 
     let filteredData;
     if (currentCategory === '') {
-     
       filteredData = data;
     } else {
-     
-      filteredData = data.filter((recipe) => recipe.category === currentCategory);
+      filteredData = data.filter(recipe => recipe.category === currentCategory);
     }
 
     const listMarkup = filteredData.reduce(
@@ -83,12 +86,12 @@ const generateStorageList = (pageSet = 1) => { // Favoriler sayfasının oluştu
     refs.favoriteRecipesList.innerHTML = listMarkup;
 
     const favoriteButtons = document.querySelectorAll('.favorite-btn');
-    favoriteButtons.forEach((button) => {
+    favoriteButtons.forEach(button => {
       button.onclick = () => handleFavoriteButtonClick(button);
     });
 
     const seeRecipeButtons = document.querySelectorAll('.item-rec');
-    seeRecipeButtons.forEach((seeRecipeButton) => {
+    seeRecipeButtons.forEach(seeRecipeButton => {
       seeRecipeButton.addEventListener('click', () => {
         OpenModal(seeRecipeButton);
       });
@@ -110,13 +113,13 @@ const generateStorageList = (pageSet = 1) => { // Favoriler sayfasının oluştu
   }
 };
 
-
-const generateCategoryList = () => { // Kategorilerin oluşturulması - Categories creation
+const generateCategoryList = () => {
+  // Kategorilerin oluşturulması - Categories creation
   const storage = localStorage.getItem('favorites');
   const data = JSON.parse(storage) || [];
   if (data.length) {
     return data
-      .flatMap((recipe) => recipe.category)
+      .flatMap(recipe => recipe.category)
       .filter((category, index, array) => array.indexOf(category) === index)
       .reduce(
         (categoryMarkup, category) => categoryMarkup + renderCategory(category),
@@ -126,27 +129,30 @@ const generateCategoryList = () => { // Kategorilerin oluşturulması - Categori
   return '';
 };
 
-const renderCategory = (category) => `<button class="button-fav">${category}</button>`;
+const renderCategory = category =>
+  `<button class="button-fav">${category}</button>`;
 
-const filterByCategory = (evt) => { // Kategoriye göre tarifleri filtreleme - Filter recipes by category
+const filterByCategory = evt => {
+  // Kategoriye göre tarifleri filtreleme - Filter recipes by category
   if (evt.target.nodeName === 'BUTTON') {
     if (evt.target.name === 'all') {
-      currentCategory = ''; 
-      setActiveClass(evt.target); 
+      currentCategory = '';
+      setActiveClass(evt.target);
     } else {
-      currentCategory = evt.target.textContent; 
-      setActiveClass(evt.target); 
+      currentCategory = evt.target.textContent;
+      setActiveClass(evt.target);
     }
 
     generateStorageList();
   }
 };
 
-const setActiveClass = (targetButton) => { // Aktif kategori butonunu ayarla - Set active category button
+const setActiveClass = targetButton => {
+  // Aktif kategori butonunu ayarla - Set active category button
   const allCatBtn = document.querySelector('.all-btn');
   const categoryButtons = document.querySelectorAll('.button-fav');
 
-  categoryButtons.forEach((button) => {
+  categoryButtons.forEach(button => {
     if (button === targetButton) {
       button.classList.add('onActive');
     } else {
@@ -157,7 +163,8 @@ const setActiveClass = (targetButton) => { // Aktif kategori butonunu ayarla - S
   allCatBtn.classList.remove('onActive');
 };
 
-const handleFavoriteButtonClick = (button) => { // Favori tariflerden tarif silme - Remove recipe from favorites
+const handleFavoriteButtonClick = button => {
+  // Favori tariflerden tarif silme - Remove recipe from favorites
   const infoRecipe = JSON.parse(button.dataset.info);
   const storage = localStorage.getItem('favorites');
   let data = JSON.parse(storage) || [];
@@ -169,14 +176,12 @@ const handleFavoriteButtonClick = (button) => { // Favori tariflerden tarif silm
     data.splice(recipeIndex, 1);
     localStorage.setItem('favorites', JSON.stringify(data));
 
-
     const remainingData = JSON.parse(localStorage.getItem('favorites')) || [];
     const otherRecipesInCategory = remainingData.some(
       recipe => recipe.category === removedRecipeCategory
     );
 
     if (!otherRecipesInCategory) {
-
       const recipeCards = document.querySelectorAll('.item');
       recipeCards.forEach(card => {
         if (card.dataset.category === removedRecipeCategory) {
@@ -184,8 +189,8 @@ const handleFavoriteButtonClick = (button) => { // Favori tariflerden tarif silm
         }
       });
 
-
-      const categoryButtons = refs.favoriteCategoriesList.querySelectorAll('.button-fav');
+      const categoryButtons =
+        refs.favoriteCategoriesList.querySelectorAll('.button-fav');
       categoryButtons.forEach(categoryButton => {
         if (categoryButton.textContent === removedRecipeCategory) {
           categoryButton.remove();
@@ -194,7 +199,7 @@ const handleFavoriteButtonClick = (button) => { // Favori tariflerden tarif silm
     }
   }
 
-// Favoriler sayfasının yenilenmesi - Favorites page reload
+  // Favoriler sayfasının yenilenmesi - Favorites page reload
   const remainingData = JSON.parse(localStorage.getItem('favorites')) || [];
   if (remainingData.length === 0) {
     refs.favoriteRecipesList.innerHTML = '';

@@ -381,7 +381,7 @@ button.give-rating-btn {
     border-color: rgba(255, 255, 255, 0.2);
 }
 
-.dark .close-modal .close-modal-ico {
+.dark .close-modal .close-modal-icon {
     stroke: var(--primary-white-color);
 }
 
