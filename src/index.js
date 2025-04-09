@@ -1,7 +1,7 @@
 import './js/services/API.js';
 import './js/services/category-search.js';
 import './js/utilities/pagination.js';
-// import './js/utilities/swiper.js';
+import './js/utilities/swiper.js';
 import './js/utilities/swiper-api.js';
 import './js/utilities/scrollbar.js';
 import './js/renders/renders.js';
