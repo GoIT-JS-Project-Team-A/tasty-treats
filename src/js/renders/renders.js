@@ -9,7 +9,7 @@ export function measureRating(position, pating) {
 }
 
 // LS'de favori tarif kontrolü - Favorite recipe control on LS
-function checkOnFavs(id) {
+function checkOnFavor(id) {
     const storage = localStorage.getItem('favorites');
     const data = JSON.parse(storage) || [];
     if (storage && data.find(recipe => recipe.id === id)) {
