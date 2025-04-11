@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TastyTreats</title>
+    <link
+      rel="stylesheet"
+      href="../node_modules/modern-normalize/modern-normalize.css"
+    />
+    <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./css/main.css" />
+  </head>
+
+  <body>
+    <!-- Favoriler Header / Favourites Header -->
+    <load src="./partials/header_favorite.html" />
+
+    <main>
+      <!-- Favoriler Hero Bölümü / Favourites Hero Section -->
+      <load src="./partials/fav_hero.html" />
+      <!-- Favoriler İçerik / Favourites Content -->
+      <load src="./partials/fav_page_list.html" />
+    </main>
+
+    <div class="backdrop-recipes is-hidden-modal">
+      <!-- Favoriler Sayfası Popups / Favourites Pages Modal Windows -->
+      <load src="./partials/modal-recipes.html" />
+      <load src="./partials/rating.html" />
+    </div>
+
+    <!-- Favoriler Sayfası Sipariş Popup / Favourites Page Order Modal -->
+    <load src="./partials/order-now-modal.html" />
+
+    <footer>
+      <load src="./partials/footer.html" />
+    </footer>
+
+    <script type="module" src="./favorites.js"></script>
+    <script type="module" src="./js/utils/switcher.js"></script>
+  </body>
+</html>

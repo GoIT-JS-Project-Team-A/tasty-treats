@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TastyTreats</title>
+    <link
+      rel="stylesheet"
+      href="../node_modules/modern-normalize/modern-normalize.css"
+    />
+    <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="./css/main.css" />
+  </head>
+
+  <body>
+    <!-- Header & Hero -->
+    <load src="./partials/header.html" />
+    <load src="./partials/hero.html" />
+
+    <!-- Ana İçerik / Main Contents -->
+    <div class="position-wrapper container">
+      <load src="./partials/all-categories.html" />
+      <load src="./partials/popular-recipes.html" />
+      <load src="./partials/search.html" />
+      <load src="./partials/order-now-modal.html" />
+    </div>
+
+    <!-- Modals/Popups -->
+    <div class="backdrop-recipes is-hidden-modal">
+      <load src="./partials/modal-recipes.html" />
+      <load src="./partials/rating.html" />
+      <load src="./partials/team-modal.html" />
+    </div>
+    <button id="scrollButton" class="scroll-button">&#9650;</button>
+    <load src="./partials/footer.html" />
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>
