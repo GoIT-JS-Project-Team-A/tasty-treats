@@ -11,4 +11,3 @@ import './js/renders/renderPopularRecipes';
 import './js/utils/order-now-modal';
 import './js/utils/modal-recipes';
 import './js/utils/switcher';
-import './js/utils/team-modal';
